@@ -1,0 +1,2357 @@
+level,,Job Title,Salary,Age,Years of Experience,Education Level
+1.0,2385,Full Stack Engineer,69032.0,25.0,2.0,High School
+1.0,2411,Senior Project Engineer,52731.0,24.0,1.0,High School
+1.0,2454,Front end Developer,62852.0,23.0,2.0,High School
+1.0,2465,Full Stack Engineer,69032.0,25.0,2.0,High School
+1.0,2491,Senior Project Engineer,52731.0,24.0,1.0,High School
+1.0,2534,Front end Developer,62852.0,23.0,2.0,High School
+1.0,2544,Back end Developer,62807.0,23.0,2.0,High School
+1.0,2576,Back end Developer,79767.0,27.0,4.0,High School
+1.0,2608,Front end Developer,47898.0,23.0,1.0,High School
+1.0,2645,Back end Developer,68611.0,27.0,3.0,High School
+1.0,2790,Back end Developer,52807.0,23.0,1.0,High School
+1.0,2822,Back end Developer,80247.0,27.0,4.0,High School
+1.0,2909,Back end Developer,52807.0,23.0,1.0,High School
+1.0,2941,Back end Developer,80247.0,27.0,4.0,High School
+1.0,3028,Back end Developer,52807.0,23.0,1.0,High School
+1.0,3060,Back end Developer,80247.0,27.0,4.0,High School
+1.0,3397,Junior Web Developer,55000.0,31.0,4.0,High School
+1.0,3402,Junior HR Generalist,32000.0,24.0,1.0,High School
+1.0,3407,Junior HR Coordinator,38000.0,31.0,3.0,High School
+1.0,3411,Junior HR Generalist,32000.0,28.0,1.0,High School
+1.0,3419,Junior HR Generalist,35000.0,26.0,2.0,High School
+1.0,3423,Junior HR Coordinator,30000.0,27.0,1.0,High School
+1.0,3427,Junior HR Generalist,35000.0,31.0,2.0,High School
+1.0,3435,Junior HR Coordinator,38000.0,33.0,3.0,High School
+1.0,3439,Junior HR Generalist,32000.0,30.0,1.0,High School
+1.0,3446,Junior HR Generalist,35000.0,31.0,2.0,High School
+1.0,3453,Junior HR Generalist,32000.0,27.0,1.0,High School
+1.0,3458,Junior HR Coordinator,33000.0,30.0,2.0,High School
+1.0,3465,Junior HR Generalist,35000.0,31.0,2.0,High School
+1.0,3472,Junior HR Generalist,32000.0,27.0,1.0,High School
+1.0,3477,Junior HR Coordinator,33000.0,30.0,2.0,High School
+1.0,3484,Junior HR Generalist,35000.0,31.0,2.0,High School
+1.0,3491,Junior HR Generalist,32000.0,27.0,1.0,High School
+1.0,3496,Junior HR Coordinator,33000.0,30.0,2.0,High School
+1.0,3503,Junior HR Generalist,35000.0,31.0,2.0,High School
+1.0,3510,Junior HR Generalist,32000.0,27.0,1.0,High School
+1.0,3515,Junior HR Coordinator,33000.0,30.0,2.0,High School
+1.0,3521,Junior HR Generalist,32000.0,24.0,1.0,High School
+1.0,3526,Junior HR Coordinator,38000.0,31.0,3.0,High School
+1.0,3530,Junior HR Generalist,32000.0,28.0,1.0,High School
+1.0,3538,Junior HR Generalist,35000.0,26.0,2.0,High School
+1.0,3542,Junior HR Coordinator,30000.0,27.0,1.0,High School
+1.0,3546,Junior HR Generalist,35000.0,31.0,2.0,High School
+1.0,3554,Junior HR Coordinator,38000.0,33.0,3.0,High School
+1.0,3558,Junior HR Generalist,32000.0,30.0,1.0,High School
+1.0,3565,Junior HR Generalist,35000.0,31.0,2.0,High School
+1.0,3572,Junior HR Generalist,32000.0,27.0,1.0,High School
+1.0,3577,Junior HR Coordinator,33000.0,30.0,2.0,High School
+1.0,3584,Junior HR Generalist,35000.0,31.0,2.0,High School
+1.0,3591,Junior HR Generalist,32000.0,27.0,1.0,High School
+1.0,3596,Junior HR Coordinator,33000.0,30.0,2.0,High School
+1.0,3603,Junior HR Generalist,35000.0,31.0,2.0,High School
+1.0,3610,Junior HR Generalist,32000.0,27.0,1.0,High School
+1.0,3615,Junior HR Coordinator,33000.0,30.0,2.0,High School
+1.0,3622,Junior HR Generalist,35000.0,31.0,2.0,High School
+1.0,3629,Junior HR Generalist,32000.0,27.0,1.0,High School
+1.0,3634,Junior HR Coordinator,33000.0,30.0,2.0,High School
+1.0,3643,Junior Sales Associate,30000.0,24.0,1.0,High School
+1.0,3649,Junior Sales Associate,35000.0,27.0,2.0,High School
+1.0,3656,Junior Sales Associate,30000.0,29.0,1.0,High School
+1.0,3664,Junior Sales Associate,35000.0,28.0,2.0,High School
+1.0,3671,Junior Sales Associate,30000.0,29.0,1.0,High School
+1.0,3679,Junior Sales Associate,35000.0,28.0,2.0,High School
+1.0,3686,Junior Sales Associate,30000.0,29.0,1.0,High School
+1.0,3694,Junior Sales Associate,35000.0,28.0,2.0,High School
+1.0,3701,Junior Sales Associate,30000.0,29.0,1.0,High School
+1.0,3709,Junior Sales Associate,35000.0,28.0,2.0,High School
+1.0,3716,Junior Sales Associate,30000.0,29.0,1.0,High School
+1.0,3724,Junior Sales Associate,35000.0,28.0,2.0,High School
+1.0,3731,Junior Sales Associate,30000.0,29.0,1.0,High School
+1.0,3739,Junior Sales Associate,35000.0,28.0,2.0,High School
+1.0,3746,Junior Sales Associate,30000.0,29.0,1.0,High School
+1.0,3754,Junior Sales Associate,35000.0,28.0,2.0,High School
+1.0,3761,Junior Sales Associate,30000.0,29.0,1.0,High School
+1.0,3768,Junior Sales Associate,30000.0,23.0,1.0,High School
+1.0,3774,Junior Sales Associate,35000.0,26.0,2.0,High School
+1.0,3781,Junior Sales Associate,30000.0,28.0,1.0,High School
+1.0,3789,Junior Sales Associate,35000.0,27.0,2.0,High School
+1.0,3796,Junior Sales Associate,30000.0,28.0,1.0,High School
+1.0,3804,Junior Sales Associate,35000.0,27.0,2.0,High School
+1.0,3811,Junior Sales Associate,30000.0,28.0,1.0,High School
+1.0,3819,Junior Sales Associate,35000.0,27.0,2.0,High School
+1.0,3826,Junior Sales Associate,30000.0,28.0,1.0,High School
+1.0,3834,Junior Sales Associate,35000.0,27.0,2.0,High School
+1.0,3841,Junior Sales Associate,30000.0,28.0,1.0,High School
+1.0,3849,Junior Sales Associate,35000.0,27.0,2.0,High School
+1.0,3856,Junior Sales Associate,30000.0,28.0,1.0,High School
+1.0,3864,Junior Sales Associate,35000.0,27.0,2.0,High School
+1.0,3871,Junior Sales Associate,30000.0,28.0,1.0,High School
+1.0,3879,Junior Sales Associate,35000.0,27.0,2.0,High School
+1.0,3886,Junior Sales Associate,30000.0,28.0,1.0,High School
+1.0,3893,Junior Sales Associate,25000.0,22.0,1.0,High School
+1.0,3899,Junior Sales Associate,30000.0,25.0,2.0,High School
+1.0,3906,Junior Sales Associate,25000.0,29.0,1.0,High School
+1.0,3914,Junior Sales Associate,30000.0,26.0,2.0,High School
+1.0,3921,Junior Sales Associate,25000.0,29.0,1.0,High School
+1.0,3929,Junior Sales Associate,30000.0,26.0,2.0,High School
+1.0,3936,Junior Sales Associate,25000.0,29.0,1.0,High School
+1.0,3944,Junior Sales Associate,30000.0,26.0,2.0,High School
+1.0,3951,Junior Sales Associate,25000.0,29.0,1.0,High School
+1.0,3959,Junior Sales Associate,30000.0,26.0,2.0,High School
+1.0,3966,Junior Sales Associate,25000.0,29.0,1.0,High School
+1.0,3974,Junior Sales Associate,30000.0,26.0,2.0,High School
+1.0,3981,Junior Sales Associate,25000.0,29.0,1.0,High School
+1.0,3989,Junior Sales Associate,30000.0,26.0,2.0,High School
+1.0,3996,Junior Sales Associate,25000.0,29.0,1.0,High School
+1.0,4004,Junior Sales Associate,30000.0,26.0,2.0,High School
+1.0,4011,Junior Sales Associate,25000.0,29.0,1.0,High School
+1.0,4018,Junior Sales Associate,25000.0,23.0,1.0,High School
+1.0,4024,Junior Sales Associate,25000.0,24.0,1.0,High School
+1.0,4031,Junior Sales Associate,25000.0,28.0,1.0,High School
+1.0,4039,Junior Sales Associate,25000.0,24.0,1.0,High School
+1.0,4046,Junior Sales Associate,25000.0,28.0,1.0,High School
+1.0,4054,Junior Sales Associate,25000.0,24.0,1.0,High School
+1.0,4061,Junior Sales Associate,25000.0,28.0,1.0,High School
+1.0,4069,Junior Sales Associate,25000.0,24.0,1.0,High School
+1.0,4076,Junior Sales Associate,25000.0,28.0,1.0,High School
+1.0,4084,Junior Sales Associate,25000.0,24.0,1.0,High School
+1.0,4091,Junior Sales Associate,25000.0,28.0,1.0,High School
+1.0,4099,Junior Sales Associate,25000.0,24.0,1.0,High School
+1.0,4106,Junior Sales Associate,25000.0,28.0,1.0,High School
+1.0,4114,Junior Sales Associate,25000.0,24.0,1.0,High School
+1.0,4121,Junior Sales Associate,25000.0,28.0,1.0,High School
+1.0,4129,Junior Sales Associate,25000.0,24.0,1.0,High School
+1.0,4136,Junior Sales Associate,25000.0,28.0,1.0,High School
+1.0,4143,Junior Sales Associate,26000.0,25.0,1.0,High School
+1.0,4149,Junior Sales Associate,26000.0,23.0,1.0,High School
+1.0,4156,Junior Sales Associate,26000.0,29.0,1.0,High School
+1.0,4164,Junior Sales Associate,26000.0,23.0,1.0,High School
+1.0,4171,Junior Sales Associate,26000.0,29.0,1.0,High School
+1.0,4179,Junior Sales Associate,26000.0,23.0,1.0,High School
+1.0,4186,Junior Sales Associate,26000.0,29.0,1.0,High School
+1.0,4194,Junior Sales Associate,26000.0,23.0,1.0,High School
+1.0,4201,Junior Sales Associate,26000.0,29.0,1.0,High School
+1.0,4209,Junior Sales Associate,26000.0,23.0,1.0,High School
+1.0,4216,Junior Sales Associate,26000.0,29.0,1.0,High School
+1.0,4224,Junior Sales Associate,26000.0,23.0,1.0,High School
+1.0,4231,Junior Sales Associate,26000.0,29.0,1.0,High School
+1.0,4239,Junior Sales Associate,26000.0,23.0,1.0,High School
+1.0,4246,Junior Sales Associate,26000.0,29.0,1.0,High School
+1.0,4254,Junior Sales Associate,26000.0,23.0,1.0,High School
+1.0,4261,Junior Sales Associate,26000.0,29.0,1.0,High School
+1.0,4267,Junior Sales Associate,26000.0,24.0,1.0,High School
+1.0,4273,Junior Sales Associate,26000.0,26.0,1.0,High School
+1.0,4280,Junior Sales Associate,26000.0,30.0,1.0,High School
+1.0,4288,Junior Sales Associate,26000.0,26.0,1.0,High School
+1.0,4295,Junior Sales Associate,26000.0,30.0,1.0,High School
+1.0,4303,Junior Sales Associate,26000.0,26.0,1.0,High School
+1.0,4310,Junior Sales Associate,26000.0,30.0,1.0,High School
+1.0,4318,Junior Sales Associate,26000.0,26.0,1.0,High School
+1.0,4325,Junior Sales Associate,26000.0,30.0,1.0,High School
+1.0,4333,Junior Sales Associate,26000.0,26.0,1.0,High School
+1.0,4340,Junior Sales Associate,26000.0,30.0,1.0,High School
+1.0,4348,Junior Sales Associate,26000.0,26.0,1.0,High School
+1.0,4355,Junior Sales Associate,26000.0,30.0,1.0,High School
+1.0,4363,Junior Sales Associate,26000.0,26.0,1.0,High School
+1.0,4370,Junior Sales Associate,26000.0,30.0,1.0,High School
+1.0,4378,Junior Sales Associate,26000.0,26.0,1.0,High School
+1.0,4385,Junior Sales Associate,26000.0,30.0,1.0,High School
+1.0,4393,Junior Sales Associate,25000.0,33.0,1.0,High School
+1.0,4401,Junior Sales Associate,25000.0,30.0,1.0,High School
+1.0,4411,Junior Sales Associate,25000.0,31.0,1.0,High School
+1.0,4416,Junior Sales Associate,25000.0,30.0,1.0,High School
+1.0,4426,Junior Sales Associate,25000.0,31.0,1.0,High School
+1.0,4431,Junior Sales Associate,25000.0,30.0,1.0,High School
+1.0,4441,Junior Sales Associate,25000.0,31.0,1.0,High School
+1.0,4446,Junior Sales Associate,25000.0,30.0,1.0,High School
+1.0,4456,Junior Sales Associate,25000.0,31.0,1.0,High School
+1.0,4461,Junior Sales Associate,25000.0,30.0,1.0,High School
+1.0,4471,Junior Sales Associate,25000.0,31.0,1.0,High School
+1.0,4476,Junior Sales Associate,25000.0,30.0,1.0,High School
+1.0,4486,Junior Sales Associate,25000.0,31.0,1.0,High School
+1.0,4491,Junior Sales Associate,25000.0,30.0,1.0,High School
+1.0,4501,Junior Sales Associate,25000.0,31.0,1.0,High School
+1.0,4506,Junior Sales Associate,25000.0,30.0,1.0,High School
+1.0,4519,Web Developer,35000.0,26.0,1.0,High School
+1.0,4528,Juniour HR Generalist,43000.0,28.0,2.0,High School
+1.0,4537,Juniour HR Coordinator,32000.0,25.0,1.0,High School
+1.0,4548,Junior HR Generalist,40000.0,25.0,2.0,High School
+1.0,4551,Juniour HR Coordinator,32000.0,24.0,1.0,High School
+1.0,4558,Web Developer,45000.0,25.0,2.0,High School
+1.0,4567,Juniour HR Generalist,43000.0,28.0,2.0,High School
+1.0,4580,Junior Web Developer,43000.0,28.0,2.0,High School
+1.0,4589,Junior HR Coordinator,32000.0,25.0,1.0,High School
+1.0,4600,Junior HR Generalist,40000.0,25.0,2.0,High School
+1.0,4603,Juniour HR Coordinator,32000.0,24.0,1.0,High School
+1.0,4610,Web Developer,45000.0,25.0,2.0,High School
+1.0,4619,Juniour HR Generalist,43000.0,28.0,2.0,High School
+1.0,4632,Junior Web Developer,43000.0,28.0,2.0,High School
+1.0,4639,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4649,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4659,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4669,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4679,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4689,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4699,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4709,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4719,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4729,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4739,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4749,Junior Sales Associate,30000.0,25.0,1.0,High School
+1.0,4760,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4770,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4780,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4790,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4800,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4810,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4820,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4830,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4840,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4850,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4860,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4870,Junior Sales Associate,31000.0,26.0,2.0,High School
+1.0,4880,Sales Associate,30000.0,24.0,1.0,High School
+1.0,4893,Sales Associate,30000.0,24.0,1.0,High School
+1.0,4906,Sales Associate,30000.0,24.0,1.0,High School
+1.0,4919,Sales Associate,30000.0,24.0,1.0,High School
+1.0,4932,Sales Associate,30000.0,24.0,1.0,High School
+1.0,4945,Sales Associate,30000.0,24.0,1.0,High School
+1.0,4958,Sales Associate,30000.0,24.0,1.0,High School
+1.0,4971,Sales Associate,30000.0,24.0,1.0,High School
+1.0,4984,Sales Associate,30000.0,24.0,1.0,High School
+1.0,4997,Sales Associate,30000.0,24.0,1.0,High School
+1.0,5006,Sales Representative,50000.0,27.0,3.0,High School
+1.0,5014,Sales Associate,30000.0,24.0,1.0,High School
+1.0,5027,Sales Associate,30000.0,24.0,1.0,High School
+1.0,5040,Sales Associate,30000.0,24.0,1.0,High School
+1.0,5053,Sales Associate,30000.0,24.0,1.0,High School
+1.0,5066,Sales Associate,30000.0,24.0,1.0,High School
+1.0,5079,Sales Associate,30000.0,24.0,1.0,High School
+1.0,5092,Sales Associate,30000.0,24.0,1.0,High School
+1.0,5105,Sales Associate,30000.0,24.0,1.0,High School
+1.0,5118,Sales Associate,30000.0,24.0,1.0,High School
+1.0,5500,Customer Service Representative,35000.0,29.0,3.0,High School
+1.0,5638,Customer Service Representative,30000.0,25.0,1.0,High School
+1.0,5770,Customer Service Representative,30000.0,25.0,1.0,High School
+1.0,5898,Customer Service Representative,30000.0,25.0,1.0,High School
+1.0,6025,Customer Service Representative,30000.0,25.0,1.0,High School
+1.0,6263,Sales Executive,35000.0,23.0,1.0,High School
+1.0,6267,Sales Representative,40000.0,28.0,3.0,High School
+1.0,6273,Financial Manager,60000.0,31.0,4.0,High School
+1.0,6277,Sales Executive,40000.0,30.0,2.0,High School
+1.0,6283,Sales Associate,35000.0,24.0,1.0,High School
+1.0,6288,Sales Executive,40000.0,27.0,2.0,High School
+1.0,6294,Sales Associate,35000.0,25.0,1.0,High School
+1.0,6301,Sales Representative,40000.0,27.0,3.0,High School
+1.0,6305,Sales Associate,40000.0,31.0,2.0,High School
+1.0,6310,Sales Executive,35000.0,23.0,1.0,High School
+1.0,6316,Financial Manager,60000.0,27.0,4.0,High School
+1.0,6321,Sales Representative,40000.0,29.0,2.0,High School
+1.0,6325,Sales Associate,35000.0,25.0,1.0,High School
+1.0,6330,Sales Executive,40000.0,28.0,2.0,High School
+1.0,6333,Sales Executive,40000.0,27.0,2.0,High School
+1.0,6337,Sales Representative,40000.0,29.0,2.0,High School
+1.0,6342,Financial Manager,45000.0,26.0,3.0,High School
+1.0,6348,Junior Sales Representative,40000.0,31.0,3.0,High School
+1.0,6350,Sales Associate,35000.0,25.0,1.0,High School
+1.0,6355,Sales Executive,40000.0,28.0,2.0,High School
+1.0,6359,Junior Sales Representative,40000.0,31.0,3.0,High School
+1.0,6362,Sales Associate,35000.0,25.0,1.0,High School
+1.0,6367,Digital Marketing Manager,40000.0,26.0,2.0,High School
+1.0,6373,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6376,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6381,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6387,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6390,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6395,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6401,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6404,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6409,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6415,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6418,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6423,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6429,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6432,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6437,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6443,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6446,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6451,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6459,Sales Executive,55000.0,33.0,4.0,High School
+1.0,6462,Sales Associate,35000.0,24.0,1.0,High School
+1.0,6467,Sales Representative,40000.0,28.0,2.0,High School
+1.0,6472,Financial Manager,45000.0,26.0,3.0,High School
+1.0,6478,Junior Sales Representative,40000.0,31.0,3.0,High School
+1.0,6481,Sales Associate,35000.0,25.0,1.0,High School
+1.0,6486,Digital Marketing Manager,40000.0,26.0,2.0,High School
+1.0,6492,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6495,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6500,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6506,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6509,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6514,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6520,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6523,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6528,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6534,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6537,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6542,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6548,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6551,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6556,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6562,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6565,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6570,Sales Manager,40000.0,26.0,2.0,High School
+1.0,6576,Sales Associate,50000.0,31.0,3.0,High School
+1.0,6579,Sales Executive,35000.0,25.0,1.0,High School
+1.0,6583,Sales Executive,70000.0,34.0,5.0,High School
+1.0,6586,Sales Associate,35000.0,25.0,1.0,High School
+1.0,6591,Sales Representative,40000.0,29.0,2.0,High School
+1.0,6596,Financial Manager,45000.0,27.0,3.0,High School
+1.0,6602,Junior Sales Representative,40000.0,32.0,3.0,High School
+1.0,6605,Sales Associate,35000.0,26.0,1.0,High School
+1.0,6610,Digital Marketing Manager,40000.0,27.0,2.0,High School
+1.0,6616,Sales Associate,50000.0,32.0,3.0,High School
+1.0,6619,Sales Executive,35000.0,26.0,1.0,High School
+1.0,6624,Sales Manager,40000.0,27.0,2.0,High School
+1.0,6630,Junior Sales Representative,40000.0,32.0,3.0,High School
+1.0,6633,Sales Associate,35000.0,26.0,1.0,High School
+1.0,6638,Digital Marketing Manager,40000.0,27.0,2.0,High School
+1.0,6644,Sales Associate,50000.0,32.0,3.0,High School
+1.0,6647,Sales Executive,35000.0,26.0,1.0,High School
+1.0,6652,Sales Manager,40000.0,27.0,2.0,High School
+1.0,6658,Junior Sales Representative,40000.0,32.0,3.0,High School
+1.0,6661,Sales Associate,35000.0,26.0,1.0,High School
+1.0,6666,Digital Marketing Manager,40000.0,27.0,2.0,High School
+1.0,6672,Sales Associate,50000.0,32.0,3.0,High School
+1.0,6675,Sales Executive,35000.0,26.0,1.0,High School
+1.0,6680,Sales Manager,40000.0,27.0,2.0,High School
+1.0,6686,Junior Sales Representative,40000.0,32.0,3.0,High School
+1.0,6689,Sales Associate,35000.0,26.0,1.0,High School
+1.0,6694,Digital Marketing Manager,40000.0,27.0,2.0,High School
+1.0,6700,Sales Associate,50000.0,32.0,3.0,High School
+1.0,6703,Sales Executive,35000.0,26.0,1.0,High School
+2.0,0,Software Engineer,90000.0,32.0,5.0,Bachelor's
+2.0,5,Marketing Analyst,55000.0,29.0,2.0,Bachelor's
+2.0,7,Sales Manager,80000.0,31.0,4.0,Bachelor's
+2.0,8,Marketing Coordinator,45000.0,26.0,1.0,Bachelor's
+2.0,14,Customer Service Rep,40000.0,27.0,2.0,Bachelor's
+2.0,22,IT Support,50000.0,30.0,2.0,Bachelor's
+2.0,25,Social Media Specialist,45000.0,28.0,3.0,Bachelor's
+2.0,27,Junior Developer,40000.0,24.0,1.0,Bachelor's
+2.0,31,Accountant,55000.0,31.0,4.0,Bachelor's
+2.0,35,Technical Writer,45000.0,27.0,2.0,Bachelor's
+2.0,38,Customer Success Rep,40000.0,26.0,1.0,Bachelor's
+2.0,42,Network Engineer,60000.0,30.0,3.0,Bachelor's
+2.0,45,Copywriter,40000.0,28.0,2.0,Bachelor's
+2.0,46,Account Manager,75000.0,32.0,5.0,Bachelor's
+2.0,54,Graphic Designer,50000.0,29.0,3.0,Bachelor's
+2.0,58,Social Media Manager,55000.0,30.0,4.0,Bachelor's
+2.0,61,Marketing Analyst,50000.0,29.0,3.0,Bachelor's
+2.0,64,Junior Accountant,35000.0,26.0,1.0,Bachelor's
+2.0,67,Customer Service Representative,45000.0,31.0,5.0,Bachelor's
+2.0,73,Technical Support Specialist,40000.0,28.0,2.0,Bachelor's
+2.0,79,Content Marketing Manager,55000.0,30.0,3.0,Bachelor's
+2.0,84,Junior Designer,40000.0,29.0,2.0,Bachelor's
+2.0,86,Junior Account Manager,45000.0,27.0,2.0,Bachelor's
+2.0,91,Sales Associate,40000.0,29.0,3.0,Bachelor's
+2.0,97,Junior Software Developer,35000.0,26.0,1.0,Bachelor's
+2.0,100,Event Coordinator,45000.0,31.0,5.0,Bachelor's
+2.0,103,Junior Web Developer,50000.0,33.0,5.0,Bachelor's
+2.0,106,Digital Content Producer,50000.0,30.0,3.0,Bachelor's
+2.0,109,Customer Success Manager,40000.0,28.0,2.0,Bachelor's
+2.0,118,Junior HR Generalist,45000.0,29.0,3.0,Bachelor's
+2.0,122,Junior Operations Analyst,50000.0,33.0,5.0,Bachelor's
+2.0,125,Junior Accountant,40000.0,26.0,2.0,Bachelor's
+2.0,128,Marketing Coordinator,50000.0,32.0,4.0,Bachelor's
+2.0,131,Junior Web Designer,45000.0,29.0,3.0,Bachelor's
+2.0,134,Junior Sales Representative,35000.0,27.0,1.0,Bachelor's
+2.0,137,Junior Marketing Manager,50000.0,30.0,4.0,Bachelor's
+2.0,140,Junior Business Analyst,40000.0,28.0,2.0,Bachelor's
+2.0,142,Junior Software Developer,50000.0,33.0,5.0,Bachelor's
+2.0,147,Junior Project Manager,60000.0,31.0,4.0,Bachelor's
+2.0,150,Junior Recruiter,45000.0,29.0,3.0,Bachelor's
+2.0,153,Junior Customer Support Specialist,35000.0,26.0,2.0,Bachelor's
+2.0,156,Junior Financial Analyst,50000.0,32.0,5.0,Bachelor's
+2.0,159,Junior Software Engineer,40000.0,28.0,2.0,Bachelor's
+2.0,162,Junior Copywriter,45000.0,30.0,3.0,Bachelor's
+2.0,168,Junior HR Coordinator,50000.0,31.0,4.0,Bachelor's
+2.0,171,Junior Marketing Coordinator,40000.0,29.0,2.0,Bachelor's
+2.0,177,Junior Accountant,50000.0,31.0,4.0,Bachelor's
+2.0,180,Junior Sales Representative,40000.0,29.0,2.0,Bachelor's
+2.0,183,Junior Product Manager,40000.0,27.0,2.0,Bachelor's
+2.0,192,Junior Social Media Manager,45000.0,30.0,3.0,Bachelor's
+2.0,195,Junior Business Analyst,40000.0,28.0,2.0,Bachelor's
+2.0,198,Junior Account Manager,55000.0,32.0,5.0,Bachelor's
+2.0,201,Junior Advertising Coordinator,45000.0,30.0,3.0,Bachelor's
+2.0,206,Junior HR Generalist,50000.0,31.0,4.0,Bachelor's
+2.0,209,Junior Marketing Coordinator,40000.0,30.0,2.0,Bachelor's
+2.0,212,Junior Business Development Associate,40000.0,28.0,2.0,Bachelor's
+2.0,221,Junior Social Media Specialist,45000.0,31.0,3.0,Bachelor's
+2.0,224,Junior Financial Analyst,40000.0,28.0,2.0,Bachelor's
+2.0,227,Junior Operations Manager,70000.0,33.0,5.0,Bachelor's
+2.0,230,Junior Marketing Specialist,45000.0,30.0,3.0,Bachelor's
+2.0,235,Junior Sales Representative,45000.0,32.0,3.0,Bachelor's
+2.0,238,Junior Operations Analyst,70000.0,33.0,5.0,Bachelor's
+2.0,247,Junior Financial Analyst,50000.0,31.0,3.0,Bachelor's
+2.0,250,Junior Marketing Coordinator,40000.0,30.0,2.0,Bachelor's
+2.0,253,Junior Business Development Associate,40000.0,28.0,2.0,Bachelor's
+2.0,263,Junior Marketing Coordinator,50000.0,31.0,3.0,Bachelor's
+2.0,268,Junior Operations Manager,60000.0,33.0,4.0,Bachelor's
+2.0,271,Junior Marketing Manager,60000.0,32.0,4.0,Bachelor's
+2.0,274,Junior Business Analyst,40000.0,30.0,2.0,Bachelor's
+2.0,277,Junior Financial Analyst,70000.0,34.0,5.0,Bachelor's
+2.0,280,Junior Operations Analyst,50000.0,31.0,3.0,Bachelor's
+2.0,286,Junior Business Analyst,60000.0,33.0,4.0,Bachelor's
+2.0,289,Junior Product Manager,65000.0,32.0,4.0,Bachelor's
+2.0,292,Junior Marketing Specialist,40000.0,29.0,2.0,Bachelor's
+2.0,295,Junior Financial Analyst,60000.0,33.0,4.0,Bachelor's
+2.0,298,Junior Operations Coordinator,40000.0,30.0,2.0,Bachelor's
+2.0,301,Junior Project Manager,55000.0,31.0,3.0,Bachelor's
+2.0,304,Junior Marketing Manager,70000.0,33.0,5.0,Bachelor's
+2.0,307,Junior Operations Analyst,50000.0,31.0,3.0,Bachelor's
+2.0,313,Junior Business Analyst,60000.0,33.0,4.0,Bachelor's
+2.0,318,Junior HR Coordinator,40000.0,30.0,2.0,Bachelor's
+2.0,321,Junior Financial Advisor,65000.0,32.0,4.0,Bachelor's
+2.0,324,Junior Marketing Analyst,40000.0,29.0,2.0,Bachelor's
+2.0,327,Junior Marketing Coordinator,55000.0,32.0,3.0,Bachelor's
+2.0,330,Junior Business Development Associate,50000.0,31.0,3.0,Bachelor's
+2.0,333,Junior Product Manager,60000.0,33.0,4.0,Bachelor's
+2.0,336,Junior Project Manager,40000.0,29.0,2.0,Bachelor's
+2.0,339,Junior Marketing Specialist,70000.0,33.0,5.0,Bachelor's
+2.0,342,Junior Financial Analyst,50000.0,31.0,3.0,Bachelor's
+2.0,345,Junior Business Analyst,60000.0,33.0,4.0,Bachelor's
+2.0,348,Junior Operations Manager,35000.0,28.0,1.0,Bachelor's
+2.0,351,Junior Marketing Coordinator,55000.0,31.0,3.0,Bachelor's
+2.0,354,Junior Business Development Associate,50000.0,31.0,3.0,Bachelor's
+2.0,357,Junior Product Manager,60000.0,33.0,4.0,Bachelor's
+2.0,360,Junior Project Manager,40000.0,29.0,2.0,Bachelor's
+2.0,363,Junior Marketing Specialist,70000.0,33.0,5.0,Bachelor's
+2.0,366,Junior Financial Analyst,50000.0,31.0,3.0,Bachelor's
+2.0,369,Junior Business Analyst,60000.0,33.0,4.0,Bachelor's
+2.0,372,Junior Project Manager,40000.0,29.0,2.0,Bachelor's
+2.0,376,Software Engineer,125000.0,28.0,3.0,Bachelor's
+2.0,378,Data Analyst,110000.0,27.0,2.0,Bachelor's
+2.0,380,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,386,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,388,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,394,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,395,Software Engineer,125000.0,28.0,3.0,Bachelor's
+2.0,397,Data Analyst,110000.0,27.0,2.0,Bachelor's
+2.0,399,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,405,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,407,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,413,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,414,Software Engineer,125000.0,28.0,3.0,Bachelor's
+2.0,416,Data Analyst,110000.0,27.0,2.0,Bachelor's
+2.0,418,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,424,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,426,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,432,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,433,Software Engineer,125000.0,28.0,3.0,Bachelor's
+2.0,435,Data Analyst,110000.0,27.0,2.0,Bachelor's
+2.0,437,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,443,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,445,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,451,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,453,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,459,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,460,Software Engineer,125000.0,28.0,3.0,Bachelor's
+2.0,462,Data Analyst,110000.0,27.0,2.0,Bachelor's
+2.0,464,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,470,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,472,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,478,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,480,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,486,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,488,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,494,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,496,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,502,Data Analyst,145000.0,30.0,5.0,Bachelor's
+2.0,504,Software Engineer,140000.0,29.0,4.0,Bachelor's
+2.0,506,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,509,Product Manager,150000.0,27.0,4.0,Bachelor's
+2.0,510,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,512,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,514,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,516,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,518,Data Analyst,95000.0,23.0,1.0,Bachelor's
+2.0,521,Product Manager,160000.0,30.0,5.0,Bachelor's
+2.0,522,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,524,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,526,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,528,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,530,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,533,Product Manager,150000.0,27.0,4.0,Bachelor's
+2.0,535,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,537,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,539,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,541,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,544,Data Analyst,160000.0,30.0,5.0,Bachelor's
+2.0,546,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,548,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,549,Product Manager,150000.0,27.0,4.0,Bachelor's
+2.0,550,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,554,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,556,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,559,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,560,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,564,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,565,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,566,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,569,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,570,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,574,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,575,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,576,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,579,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,580,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,584,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,585,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,586,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,589,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,590,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,594,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,595,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,596,Data Analyst,125000.0,25.0,2.0,Bachelor's
+2.0,599,Product Manager,150000.0,27.0,4.0,Bachelor's
+2.0,600,Data Analyst,95000.0,24.0,1.0,Bachelor's
+2.0,602,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,604,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,606,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,608,Data Analyst,90000.0,23.0,1.0,Bachelor's
+2.0,611,Product Manager,160000.0,30.0,5.0,Bachelor's
+2.0,612,Data Analyst,135000.0,26.0,3.0,Bachelor's
+2.0,614,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,616,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,618,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,620,Data Analyst,115000.0,25.0,2.0,Bachelor's
+2.0,623,Product Manager,150000.0,27.0,4.0,Bachelor's
+2.0,625,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,627,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,629,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,631,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,634,Data Analyst,160000.0,30.0,5.0,Bachelor's
+2.0,636,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,638,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,639,Product Manager,150000.0,27.0,4.0,Bachelor's
+2.0,640,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,644,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,646,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,649,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,650,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,654,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,655,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,656,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,659,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,660,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,664,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,665,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,666,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,669,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,670,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,674,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,675,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,676,Data Analyst,90000.0,23.0,1.0,Bachelor's
+2.0,679,Product Manager,125000.0,24.0,3.0,Bachelor's
+2.0,680,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,682,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,684,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,686,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,688,Data Analyst,92000.0,23.0,1.0,Bachelor's
+2.0,691,Product Manager,160000.0,30.0,5.0,Bachelor's
+2.0,692,Data Analyst,135000.0,26.0,3.0,Bachelor's
+2.0,694,Software Engineer,165000.0,28.0,5.0,Bachelor's
+2.0,696,Data Analyst,95000.0,24.0,1.0,Bachelor's
+2.0,698,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,700,Data Analyst,115000.0,25.0,2.0,Bachelor's
+2.0,703,Product Manager,150000.0,27.0,4.0,Bachelor's
+2.0,705,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,707,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,709,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,711,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,714,Data Analyst,160000.0,30.0,5.0,Bachelor's
+2.0,716,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,718,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,719,Product Manager,150000.0,27.0,4.0,Bachelor's
+2.0,720,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,724,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,726,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,729,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,730,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,734,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,735,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,736,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,739,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,740,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,744,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,745,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,746,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,749,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,750,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,754,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,755,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,756,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,759,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,760,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,764,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,765,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,766,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,769,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,770,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,774,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,775,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,776,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,779,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,780,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,784,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,785,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,786,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,789,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,790,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,794,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,795,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,796,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,799,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,800,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,804,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,805,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,806,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,809,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,810,Data Analyst,135000.0,25.0,3.0,Bachelor's
+2.0,813,Data Analyst,160000.0,30.0,5.0,Bachelor's
+2.0,814,Data Analyst,95000.0,24.0,1.0,Bachelor's
+2.0,816,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,817,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,820,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,821,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,823,Product Manager,150000.0,27.0,4.0,Bachelor's
+2.0,824,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,826,Data Analyst,115000.0,25.0,2.0,Bachelor's
+2.0,827,Software Engineer,165000.0,28.0,5.0,Bachelor's
+2.0,828,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,832,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,834,Data Analyst,160000.0,30.0,5.0,Bachelor's
+2.0,835,Data Analyst,92000.0,24.0,1.0,Bachelor's
+2.0,836,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,837,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,840,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,842,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,845,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,846,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,850,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,851,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,852,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,855,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,856,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,860,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,861,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,862,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,865,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,866,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,870,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,871,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,872,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,875,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,876,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,880,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,881,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,882,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,885,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,886,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,890,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,891,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,892,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,895,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,896,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,900,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,901,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,902,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,905,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,906,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,910,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,911,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,912,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,915,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,916,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,920,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,921,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,922,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,925,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,926,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,930,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,931,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,932,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,935,Software Engineer,160000.0,28.0,5.0,Bachelor's
+2.0,936,Data Analyst,130000.0,26.0,3.0,Bachelor's
+2.0,940,Data Analyst,90000.0,24.0,1.0,Bachelor's
+2.0,941,Software Engineer,140000.0,27.0,4.0,Bachelor's
+2.0,942,Data Analyst,110000.0,25.0,2.0,Bachelor's
+2.0,957,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,960,Data Analyst,140000.0,30.0,5.0,Bachelor's
+2.0,961,Data Analyst,100000.0,24.0,2.0,Bachelor's
+2.0,963,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,964,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,967,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,968,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,970,Product Manager,130000.0,27.0,4.0,Bachelor's
+2.0,971,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,973,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,974,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,975,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,979,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,981,Data Analyst,140000.0,30.0,5.0,Bachelor's
+2.0,982,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,983,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,984,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,987,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,989,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,992,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,993,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,997,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,998,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,999,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,1002,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,1003,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,1007,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,1008,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,1009,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,1012,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,1013,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,1017,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,1018,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,1019,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,1022,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,1023,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,1027,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,1028,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,1029,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,1032,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,1033,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,1037,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,1038,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,1039,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,1042,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,1043,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,1047,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,1048,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,1049,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,1052,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,1053,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,1057,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,1058,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,1059,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,1062,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,1063,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,1067,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,1068,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,1069,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,1072,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,1073,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,1077,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,1078,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,1079,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,1082,Software Engineer,150000.0,28.0,5.0,Bachelor's
+2.0,1083,Data Analyst,120000.0,26.0,3.0,Bachelor's
+2.0,1087,Data Analyst,95000.0,24.0,2.0,Bachelor's
+2.0,1088,Software Engineer,160000.0,27.0,4.0,Bachelor's
+2.0,1089,Data Analyst,100000.0,25.0,2.0,Bachelor's
+2.0,1092,Data Analyst,120000.0,27.0,5.0,Bachelor's
+2.0,1094,Software Engineer,160000.0,28.0,4.0,Bachelor's
+2.0,1095,Data Analyst,100000.0,26.0,3.0,Bachelor's
+2.0,1101,Software Engineer,150000.0,27.0,5.0,Bachelor's
+2.0,1104,Data Analyst,110000.0,26.0,3.0,Bachelor's
+2.0,1111,Data Analyst,90000.0,25.0,2.0,Bachelor's
+2.0,1115,Data Analyst,100000.0,26.0,3.0,Bachelor's
+2.0,1117,Software Engineer,160000.0,28.0,4.0,Bachelor's
+2.0,1118,Data Analyst,125000.0,27.0,5.0,Bachelor's
+2.0,1123,Software Engineer,150000.0,27.0,5.0,Bachelor's
+2.0,1126,Data Analyst,110000.0,26.0,3.0,Bachelor's
+2.0,1133,Data Analyst,90000.0,25.0,2.0,Bachelor's
+2.0,1137,Data Analyst,100000.0,26.0,3.0,Bachelor's
+2.0,1139,Software Engineer,160000.0,28.0,4.0,Bachelor's
+2.0,1140,Data Analyst,125000.0,27.0,5.0,Bachelor's
+2.0,1145,Software Engineer,150000.0,27.0,5.0,Bachelor's
+2.0,1148,Data Analyst,110000.0,26.0,3.0,Bachelor's
+2.0,1155,Data Analyst,90000.0,25.0,2.0,Bachelor's
+2.0,1159,Data Analyst,100000.0,26.0,3.0,Bachelor's
+2.0,1161,Software Engineer,160000.0,28.0,4.0,Bachelor's
+2.0,1162,Data Analyst,125000.0,27.0,5.0,Bachelor's
+2.0,1167,Software Engineer,150000.0,27.0,5.0,Bachelor's
+2.0,1170,Data Analyst,110000.0,26.0,3.0,Bachelor's
+2.0,1177,Data Analyst,90000.0,25.0,2.0,Bachelor's
+2.0,1181,Data Analyst,100000.0,26.0,3.0,Bachelor's
+2.0,1183,Software Engineer,160000.0,28.0,4.0,Bachelor's
+2.0,1184,Data Analyst,125000.0,27.0,5.0,Bachelor's
+2.0,1189,Software Engineer,150000.0,27.0,5.0,Bachelor's
+2.0,1192,Data Analyst,110000.0,26.0,3.0,Bachelor's
+2.0,1199,Data Analyst,90000.0,25.0,2.0,Bachelor's
+3.0,1,Data Analyst,65000.0,28.0,3.0,Master's
+3.0,10,Software Developer,75000.0,29.0,3.0,Master's
+3.0,20,Business Analyst,80000.0,34.0,5.0,Master's
+3.0,32,Data Scientist,75000.0,29.0,3.0,Master's
+3.0,40,UX Designer,80000.0,34.0,5.0,Master's
+3.0,56,UX Researcher,65000.0,27.0,2.0,Master's
+3.0,377,Product Manager,120000.0,26.0,2.0,Master's
+3.0,382,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,385,Product Manager,130000.0,28.0,3.0,Master's
+3.0,390,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,393,Product Manager,130000.0,28.0,3.0,Master's
+3.0,396,Product Manager,120000.0,26.0,2.0,Master's
+3.0,401,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,404,Product Manager,130000.0,28.0,3.0,Master's
+3.0,409,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,412,Product Manager,130000.0,28.0,3.0,Master's
+3.0,415,Product Manager,120000.0,26.0,2.0,Master's
+3.0,420,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,423,Product Manager,130000.0,28.0,3.0,Master's
+3.0,428,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,431,Product Manager,130000.0,28.0,3.0,Master's
+3.0,434,Product Manager,120000.0,26.0,2.0,Master's
+3.0,439,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,442,Product Manager,130000.0,28.0,3.0,Master's
+3.0,447,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,450,Product Manager,130000.0,28.0,3.0,Master's
+3.0,455,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,458,Product Manager,130000.0,28.0,3.0,Master's
+3.0,461,Product Manager,120000.0,26.0,2.0,Master's
+3.0,466,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,469,Product Manager,130000.0,28.0,3.0,Master's
+3.0,474,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,477,Product Manager,130000.0,28.0,3.0,Master's
+3.0,482,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,485,Product Manager,130000.0,28.0,3.0,Master's
+3.0,490,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,493,Product Manager,130000.0,28.0,3.0,Master's
+3.0,498,Data Analyst,100000.0,25.0,1.0,Master's
+3.0,501,Product Manager,130000.0,28.0,3.0,Master's
+3.0,677,Data Scientist,150000.0,27.0,4.0,Master's
+4.0,944,Data Analyst,135000.0,32.0,5.0,Bachelor's Degree
+4.0,949,Software Engineer,150000.0,29.0,4.0,Bachelor's Degree
+4.0,1206,Front end Developer,60000.0,25.0,1.0,Bachelor's Degree
+4.0,1210,Back end Developer,95000.0,32.0,4.0,Bachelor's Degree
+4.0,1215,Front end Developer,75000.0,30.0,2.0,Bachelor's Degree
+4.0,1218,Full Stack Engineer,115000.0,32.0,5.0,Bachelor's Degree
+4.0,1221,Senior Project Engineer,115000.0,27.0,4.0,Bachelor's Degree
+4.0,1234,Front end Developer,70000.0,26.0,2.0,Bachelor's Degree
+4.0,1235,Back end Developer,60000.0,24.0,1.0,Bachelor's Degree
+4.0,1239,Full Stack Engineer,55000.0,23.0,1.0,Bachelor's Degree
+4.0,1242,Front end Developer,105000.0,33.0,5.0,Bachelor's Degree
+4.0,1247,Front end Developer,60000.0,24.0,1.0,Bachelor's Degree
+4.0,1253,Full Stack Engineer,90000.0,29.0,3.0,Bachelor's Degree
+4.0,1254,Front end Developer,80000.0,29.0,3.0,Bachelor's Degree
+4.0,1255,Back end Developer,85000.0,29.0,3.0,Bachelor's Degree
+4.0,1263,Back end Developer,55000.0,23.0,1.0,Bachelor's Degree
+4.0,1272,Front end Developer,70000.0,26.0,2.0,Bachelor's Degree
+4.0,1274,Back end Developer,60000.0,24.0,1.0,Bachelor's Degree
+4.0,1276,Full Stack Engineer,120000.0,32.0,5.0,Bachelor's Degree
+4.0,1282,Front end Developer,55000.0,23.0,1.0,Bachelor's Degree
+4.0,1286,Front end Developer,55000.0,23.0,1.0,Bachelor's Degree
+4.0,1293,Back end Developer,95000.0,30.0,4.0,Bachelor's Degree
+4.0,1297,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1310,Back end Developer,55000.0,23.0,1.0,Bachelor's Degree
+4.0,1318,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1321,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1325,Front end Developer,55000.0,23.0,1.0,Bachelor's Degree
+4.0,1330,Back end Developer,95000.0,30.0,4.0,Bachelor's Degree
+4.0,1331,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1335,Front end Developer,60000.0,24.0,1.0,Bachelor's Degree
+4.0,1336,Front end Developer,80000.0,28.0,3.0,Bachelor's Degree
+4.0,1339,Front end Developer,70000.0,26.0,2.0,Bachelor's Degree
+4.0,1352,Front end Developer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,1355,Front end Developer,60000.0,25.0,1.0,Bachelor's Degree
+4.0,1363,Front end Developer,60000.0,24.0,1.0,Bachelor's Degree
+4.0,1367,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1371,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1372,Back end Developer,95000.0,30.0,4.0,Bachelor's Degree
+4.0,1384,Back end Developer,60000.0,24.0,1.0,Bachelor's Degree
+4.0,1385,Front end Developer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,1387,Front end Developer,55000.0,24.0,1.0,Bachelor's Degree
+4.0,1388,Front end Developer,80000.0,28.0,3.0,Bachelor's Degree
+4.0,1407,Front end Developer,85000.0,29.0,3.0,Bachelor's Degree
+4.0,1410,Back end Developer,65000.0,26.0,2.0,Bachelor's Degree
+4.0,1413,Front end Developer,80000.0,29.0,3.0,Bachelor's Degree
+4.0,1422,Front end Developer,55000.0,23.0,1.0,Bachelor's Degree
+4.0,1431,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1435,Front end Developer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,1438,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1446,Front end Developer,60000.0,24.0,1.0,Bachelor's Degree
+4.0,1450,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1454,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1455,Back end Developer,95000.0,30.0,4.0,Bachelor's Degree
+4.0,1467,Back end Developer,60000.0,24.0,1.0,Bachelor's Degree
+4.0,1468,Front end Developer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,1470,Front end Developer,55000.0,24.0,1.0,Bachelor's Degree
+4.0,1471,Front end Developer,80000.0,28.0,3.0,Bachelor's Degree
+4.0,1482,Front end Developer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,1483,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1490,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1493,Back end Developer,55000.0,24.0,1.0,Bachelor's Degree
+4.0,1500,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1506,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1512,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1516,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1521,Front end Developer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,1526,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1528,Front end Developer,95000.0,34.0,5.0,Bachelor's Degree
+4.0,1530,Back end Developer,75000.0,27.0,2.0,Bachelor's Degree
+4.0,1534,Front end Developer,55000.0,23.0,1.0,Bachelor's Degree
+4.0,1537,Front end Developer,80000.0,28.0,3.0,Bachelor's Degree
+4.0,1548,Front end Developer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,1554,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1555,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1562,Front end Developer,55000.0,24.0,1.0,Bachelor's Degree
+4.0,1563,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1565,Front end Developer,55000.0,24.0,1.0,Bachelor's Degree
+4.0,1566,Front end Developer,80000.0,28.0,3.0,Bachelor's Degree
+4.0,1577,Front end Developer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,1578,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1585,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1588,Back end Developer,55000.0,24.0,1.0,Bachelor's Degree
+4.0,1595,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1600,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1604,Front end Developer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,1613,Front end Developer,55000.0,24.0,1.0,Bachelor's Degree
+4.0,1614,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1623,Front end Developer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,1624,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1631,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1634,Back end Developer,55000.0,24.0,1.0,Bachelor's Degree
+4.0,1641,Front end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1646,Front end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1654,Back end Developer,70000.0,28.0,2.0,Bachelor's Degree
+4.0,1663,Back end Developer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,1665,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1682,Back end Developer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,1684,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1701,Back end Developer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,1703,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1720,Back end Developer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,1722,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1739,Back end Developer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,1741,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1758,Back end Developer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,1760,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1772,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1776,Front end Developer,105000.0,29.0,5.0,Bachelor's Degree
+4.0,1783,Back end Developer,95000.0,29.0,4.0,Bachelor's Degree
+4.0,1787,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1789,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1791,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1798,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1800,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1802,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1809,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1811,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1813,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1820,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1822,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1824,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1831,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1833,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1835,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1842,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1844,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1846,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1853,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1855,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1857,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1864,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1866,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1868,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1875,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1877,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1879,Front end Developer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,1886,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1888,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1890,Front end Developer,550.0,25.0,1.0,Bachelor's Degree
+4.0,1891,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,1893,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1897,Front end Developer,65000.0,28.0,2.0,Bachelor's Degree
+4.0,1904,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1908,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,1910,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1914,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,1921,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1925,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,1927,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1931,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,1938,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1942,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,1944,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1948,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,1955,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1959,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,1961,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1965,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,1972,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1976,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,1978,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1982,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,1989,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,1993,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,1995,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,1999,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2006,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2010,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2014,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2018,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2025,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2029,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2031,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2035,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2042,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2046,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2048,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2052,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2059,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2063,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2065,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2069,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2076,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2080,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2082,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2086,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2093,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2097,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2099,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2103,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2110,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2114,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2116,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2120,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2127,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2131,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2133,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2137,Front end Developer,55000.0,28.0,2.0,Bachelor's Degree
+4.0,2141,Full Stack Engineer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2144,Back end Developer,65000.0,26.0,2.0,Bachelor's Degree
+4.0,2146,Full Stack Engineer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2150,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2154,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2161,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2165,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2167,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2171,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2178,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2182,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2184,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2188,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2197,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2201,Full Stack Engineer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2204,Back end Developer,65000.0,26.0,2.0,Bachelor's Degree
+4.0,2206,Full Stack Engineer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2210,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2214,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2221,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2225,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2227,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2231,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2238,Back end Developer,100000.0,30.0,5.0,Bachelor's Degree
+4.0,2242,Front end Developer,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2244,Back end Developer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,2248,Front end Developer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,2251,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2253,Front End Developer,50000.0,22.0,1.0,Bachelor's Degree
+4.0,2255,Software Developer,65000.0,29.0,3.0,Bachelor's Degree
+4.0,2259,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2262,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2264,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2265,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2267,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2269,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2272,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2276,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2279,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2281,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2282,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2284,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2286,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2289,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2293,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2296,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2298,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2299,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2301,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2303,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2306,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2310,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2313,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2315,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2316,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2318,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2320,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2323,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2327,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2330,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2332,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2333,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2335,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2337,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2340,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2344,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2347,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2349,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2350,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2352,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2354,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2357,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2361,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2364,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2366,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2367,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2369,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2371,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2374,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2380,Back end Developer,90249.0,25.0,2.0,Bachelor's Degree
+4.0,2393,Back end Developer,75072.0,26.0,3.0,Bachelor's Degree
+4.0,2413,Full Stack Engineer,73895.0,27.0,4.0,Bachelor's Degree
+4.0,2419,Front end Developer,51265.0,24.0,1.0,Bachelor's Degree
+4.0,2427,Back end Developer,82683.0,27.0,4.0,Bachelor's Degree
+4.0,2460,Back end Developer,90249.0,25.0,2.0,Bachelor's Degree
+4.0,2473,Back end Developer,75072.0,26.0,3.0,Bachelor's Degree
+4.0,2493,Full Stack Engineer,73895.0,27.0,4.0,Bachelor's Degree
+4.0,2499,Front end Developer,51265.0,24.0,1.0,Bachelor's Degree
+4.0,2507,Back end Developer,82683.0,27.0,4.0,Bachelor's Degree
+4.0,2558,Full Stack Engineer,84407.0,28.0,5.0,Bachelor's Degree
+4.0,2570,Back end Developer,71699.0,28.0,4.0,Bachelor's Degree
+4.0,2596,Back end Developer,63901.0,24.0,2.0,Bachelor's Degree
+4.0,2602,Senior Project Engineer,70022.0,28.0,4.0,Bachelor's Degree
+4.0,2618,Back end Developer,68732.0,27.0,4.0,Bachelor's Degree
+4.0,2637,Back end Developer,61095.0,24.0,1.0,Bachelor's Degree
+4.0,2655,Software Engineer,65000.0,26.0,2.0,Bachelor's Degree
+4.0,2657,Product Manager,90000.0,29.0,4.0,Bachelor's Degree
+4.0,2660,Software Developer,75000.0,28.0,3.0,Bachelor's Degree
+4.0,2665,Software Developer,80000.0,29.0,5.0,Bachelor's Degree
+4.0,2667,Software Engineer,65000.0,27.0,3.0,Bachelor's Degree
+4.0,2670,Front End Developer,50000.0,25.0,2.0,Bachelor's Degree
+4.0,2673,Software Engineer,50000.0,22.0,1.0,Bachelor's Degree
+4.0,2675,Software Engineer,70000.0,28.0,4.0,Bachelor's Degree
+4.0,2678,Software Developer,45000.0,23.0,1.0,Bachelor's Degree
+4.0,2682,Software Engineer,70000.0,28.0,4.0,Bachelor's Degree
+4.0,2685,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2687,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2688,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2690,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2692,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2695,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2699,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2702,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2704,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2705,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2707,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2709,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2712,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2716,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2719,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2721,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2722,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2724,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2726,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2729,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2733,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2736,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2738,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2739,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2741,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2743,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2746,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2750,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2753,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2755,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2756,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2758,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2760,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2763,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,2767,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,2770,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,2772,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,2773,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,2775,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,2777,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,2804,Full Stack Engineer,77606.0,28.0,4.0,Bachelor's Degree
+4.0,2816,Back end Developer,72389.0,28.0,4.0,Bachelor's Degree
+4.0,2842,Back end Developer,64182.0,24.0,2.0,Bachelor's Degree
+4.0,2848,Senior Project Engineer,70397.0,28.0,3.0,Bachelor's Degree
+4.0,2867,Back end Developer,55935.0,24.0,1.0,Bachelor's Degree
+4.0,2873,Senior Project Engineer,70397.0,28.0,3.0,Bachelor's Degree
+4.0,2892,Back end Developer,55935.0,24.0,1.0,Bachelor's Degree
+4.0,2923,Full Stack Engineer,77606.0,28.0,4.0,Bachelor's Degree
+4.0,2935,Back end Developer,72389.0,28.0,4.0,Bachelor's Degree
+4.0,2961,Back end Developer,64182.0,24.0,2.0,Bachelor's Degree
+4.0,2967,Senior Project Engineer,70397.0,28.0,3.0,Bachelor's Degree
+4.0,2986,Back end Developer,55935.0,24.0,1.0,Bachelor's Degree
+4.0,2992,Senior Project Engineer,70397.0,28.0,3.0,Bachelor's Degree
+4.0,3011,Back end Developer,55935.0,24.0,1.0,Bachelor's Degree
+4.0,3042,Full Stack Engineer,77606.0,28.0,4.0,Bachelor's Degree
+4.0,3054,Back end Developer,72389.0,28.0,4.0,Bachelor's Degree
+4.0,3080,Back end Developer,64182.0,24.0,2.0,Bachelor's Degree
+4.0,3086,Senior Project Engineer,82944.0,28.0,4.0,Bachelor's Degree
+4.0,3091,Front end Developer,67556.0,26.0,3.0,Bachelor's Degree
+4.0,3105,Senior Software Engineer,100151.0,30.0,5.0,Bachelor's Degree
+4.0,3111,Back end Developer,77766.0,28.0,5.0,Bachelor's Degree
+4.0,3116,Full Stack Engineer,79652.0,26.0,4.0,Bachelor's Degree
+4.0,3130,Back end Developer,63789.0,26.0,2.0,Bachelor's Degree
+4.0,3137,Software Developer,50000.0,28.0,1.0,Bachelor's Degree
+4.0,3139,Software Engineer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3141,Front End Developer,70000.0,29.0,3.0,Bachelor's Degree
+4.0,3144,Software Developer,50000.0,27.0,1.0,Bachelor's Degree
+4.0,3146,Software Engineer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3149,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3151,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3152,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3154,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3156,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3159,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3163,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3166,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3168,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3169,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3171,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3173,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3176,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3180,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3183,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3185,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3186,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3188,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3190,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3193,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3197,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3200,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3202,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3203,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3205,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3207,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3210,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3214,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3217,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3219,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3220,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3222,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3224,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3227,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3231,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3234,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3236,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3237,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3239,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3241,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3244,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3248,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3251,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3253,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3254,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3256,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3258,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3261,Software Engineer,80000.0,30.0,4.0,Bachelor's Degree
+4.0,3262,Front End Developer,70000.0,29.0,3.0,Bachelor's Degree
+4.0,3264,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3266,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3269,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3273,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3276,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3278,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3279,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3281,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3283,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3286,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3290,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3293,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3295,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3296,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3298,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3300,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3303,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3307,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3310,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3312,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3313,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3315,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3317,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3320,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3324,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3327,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3329,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3330,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3332,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3334,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3337,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3341,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3344,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3346,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3347,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3349,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3351,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3354,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3358,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3361,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3363,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3364,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3366,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3368,Software Engineer,70000.0,27.0,3.0,Bachelor's Degree
+4.0,3371,Software Engineer,50000.0,23.0,1.0,Bachelor's Degree
+4.0,3375,Software Engineer,75000.0,28.0,4.0,Bachelor's Degree
+4.0,3378,Software Developer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3380,Software Engineer,90000.0,30.0,5.0,Bachelor's Degree
+4.0,3381,Front End Developer,80000.0,29.0,4.0,Bachelor's Degree
+4.0,3383,Software Developer,60000.0,26.0,2.0,Bachelor's Degree
+4.0,3386,Junior HR Coordinator,60000.0,30.0,4.0,Bachelor's Degree
+4.0,3387,Junior Web Developer,50000.0,25.0,2.0,Bachelor's Degree
+4.0,3394,Junior HR Coordinator,50000.0,27.0,2.0,Bachelor's Degree
+4.0,3396,Web Developer,45000.0,24.0,1.0,Bachelor's Degree
+4.0,3399,Junior HR Generalist,50000.0,26.0,2.0,Bachelor's Degree
+4.0,3401,Junior Web Developer,45000.0,32.0,2.0,Bachelor's Degree
+4.0,3409,Junior Web Developer,45000.0,26.0,2.0,Bachelor's Degree
+4.0,3412,Web Developer,70000.0,33.0,5.0,Bachelor's Degree
+4.0,3414,Junior Web Developer,40000.0,25.0,1.0,Bachelor's Degree
+4.0,3418,Junior Web Developer,50000.0,34.0,3.0,Bachelor's Degree
+4.0,3425,Junior Web Developer,40000.0,23.0,1.0,Bachelor's Degree
+4.0,3430,Junior Web Developer,45000.0,32.0,2.0,Bachelor's Degree
+4.0,3432,Web Developer,55000.0,26.0,3.0,Bachelor's Degree
+4.0,3437,Junior Web Developer,45000.0,29.0,2.0,Bachelor's Degree
+4.0,3441,Web Developer,65000.0,34.0,4.0,Bachelor's Degree
+4.0,3444,Junior Web Developer,40000.0,24.0,1.0,Bachelor's Degree
+4.0,3448,Web Developer,55000.0,28.0,3.0,Bachelor's Degree
+4.0,3451,Junior Web Developer,45000.0,26.0,2.0,Bachelor's Degree
+4.0,3454,Web Developer,70000.0,33.0,5.0,Bachelor's Degree
+4.0,3460,Junior Web Developer,50000.0,34.0,3.0,Bachelor's Degree
+4.0,3463,Web Developer,40000.0,24.0,1.0,Bachelor's Degree
+4.0,3467,Web Developer,65000.0,28.0,4.0,Bachelor's Degree
+4.0,3470,Junior Web Developer,45000.0,26.0,2.0,Bachelor's Degree
+4.0,3473,Web Developer,70000.0,33.0,5.0,Bachelor's Degree
+4.0,3479,Junior Web Developer,50000.0,34.0,3.0,Bachelor's Degree
+4.0,3482,Web Developer,40000.0,24.0,1.0,Bachelor's Degree
+4.0,3486,Web Developer,65000.0,28.0,4.0,Bachelor's Degree
+4.0,3489,Junior Web Developer,45000.0,26.0,2.0,Bachelor's Degree
+4.0,3492,Web Developer,70000.0,33.0,5.0,Bachelor's Degree
+4.0,3498,Junior Web Developer,50000.0,34.0,3.0,Bachelor's Degree
+4.0,3501,Web Developer,40000.0,24.0,1.0,Bachelor's Degree
+4.0,3505,Web Developer,65000.0,28.0,4.0,Bachelor's Degree
+4.0,3508,Junior Web Developer,45000.0,26.0,2.0,Bachelor's Degree
+4.0,3511,Web Developer,70000.0,33.0,5.0,Bachelor's Degree
+4.0,3517,Junior Web Developer,50000.0,34.0,3.0,Bachelor's Degree
+4.0,3520,Junior Web Developer,45000.0,32.0,2.0,Bachelor's Degree
+4.0,3528,Junior Web Developer,45000.0,26.0,2.0,Bachelor's Degree
+4.0,3531,Web Developer,70000.0,33.0,5.0,Bachelor's Degree
+4.0,3533,Junior Web Developer,40000.0,25.0,1.0,Bachelor's Degree
+4.0,3537,Junior Web Developer,50000.0,34.0,3.0,Bachelor's Degree
+4.0,3544,Junior Web Developer,40000.0,23.0,1.0,Bachelor's Degree
+4.0,3549,Junior Web Developer,45000.0,32.0,2.0,Bachelor's Degree
+4.0,3551,Web Developer,55000.0,26.0,3.0,Bachelor's Degree
+4.0,3556,Junior Web Developer,45000.0,29.0,2.0,Bachelor's Degree
+4.0,3560,Web Developer,65000.0,34.0,4.0,Bachelor's Degree
+4.0,3563,Junior Web Developer,40000.0,24.0,1.0,Bachelor's Degree
+4.0,3567,Web Developer,55000.0,28.0,3.0,Bachelor's Degree
+4.0,3570,Junior Web Developer,45000.0,26.0,2.0,Bachelor's Degree
+4.0,3573,Web Developer,70000.0,33.0,5.0,Bachelor's Degree
+4.0,3579,Junior Web Developer,50000.0,34.0,3.0,Bachelor's Degree
+4.0,3582,Web Developer,40000.0,24.0,1.0,Bachelor's Degree
+4.0,3586,Web Developer,65000.0,28.0,4.0,Bachelor's Degree
+4.0,3589,Junior Web Developer,45000.0,26.0,2.0,Bachelor's Degree
+4.0,3592,Web Developer,70000.0,33.0,5.0,Bachelor's Degree
+4.0,3598,Junior Web Developer,50000.0,34.0,3.0,Bachelor's Degree
+4.0,3601,Web Developer,40000.0,24.0,1.0,Bachelor's Degree
+4.0,3605,Web Developer,65000.0,28.0,4.0,Bachelor's Degree
+4.0,3608,Junior Web Developer,45000.0,26.0,2.0,Bachelor's Degree
+4.0,3611,Web Developer,70000.0,33.0,5.0,Bachelor's Degree
+4.0,3617,Junior Web Developer,50000.0,34.0,3.0,Bachelor's Degree
+4.0,3620,Web Developer,40000.0,24.0,1.0,Bachelor's Degree
+4.0,3624,Web Developer,65000.0,28.0,4.0,Bachelor's Degree
+4.0,3627,Junior Web Developer,45000.0,26.0,2.0,Bachelor's Degree
+4.0,3630,Web Developer,70000.0,33.0,5.0,Bachelor's Degree
+4.0,3636,Junior Web Developer,50000.0,34.0,3.0,Bachelor's Degree
+4.0,3639,Software Engineer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,3642,Human Resources Coordinator,55000.0,31.0,4.0,Bachelor's Degree
+4.0,3651,Software Engineer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,3653,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3658,Software Developer,60000.0,26.0,3.0,Bachelor's Degree
+4.0,3660,Operations Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,3666,Software Engineer,65000.0,31.0,4.0,Bachelor's Degree
+4.0,3668,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3673,Software Developer,60000.0,26.0,3.0,Bachelor's Degree
+4.0,3675,Operations Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,3681,Software Engineer,65000.0,31.0,4.0,Bachelor's Degree
+4.0,3683,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3688,Software Developer,60000.0,26.0,3.0,Bachelor's Degree
+4.0,3690,Operations Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,3696,Software Engineer,65000.0,31.0,4.0,Bachelor's Degree
+4.0,3698,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3703,Software Developer,60000.0,26.0,3.0,Bachelor's Degree
+4.0,3705,Operations Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,3711,Software Engineer,65000.0,31.0,4.0,Bachelor's Degree
+4.0,3713,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3718,Software Developer,60000.0,26.0,3.0,Bachelor's Degree
+4.0,3720,Operations Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,3726,Software Engineer,65000.0,31.0,4.0,Bachelor's Degree
+4.0,3728,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3733,Software Developer,60000.0,26.0,3.0,Bachelor's Degree
+4.0,3735,Operations Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,3741,Software Engineer,65000.0,31.0,4.0,Bachelor's Degree
+4.0,3743,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3748,Software Developer,60000.0,26.0,3.0,Bachelor's Degree
+4.0,3750,Operations Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,3756,Software Engineer,65000.0,31.0,4.0,Bachelor's Degree
+4.0,3758,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3763,Software Developer,60000.0,26.0,3.0,Bachelor's Degree
+4.0,3764,Software Engineer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,3767,Human Resources Coordinator,55000.0,30.0,4.0,Bachelor's Degree
+4.0,3776,Software Engineer,65000.0,29.0,4.0,Bachelor's Degree
+4.0,3778,Junior Software Developer,35000.0,26.0,1.0,Bachelor's Degree
+4.0,3783,Software Developer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,3785,Operations Manager,70000.0,30.0,5.0,Bachelor's Degree
+4.0,3791,Software Engineer,65000.0,29.0,4.0,Bachelor's Degree
+4.0,3793,Junior Software Developer,35000.0,26.0,1.0,Bachelor's Degree
+4.0,3798,Software Developer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,3800,Operations Manager,70000.0,30.0,5.0,Bachelor's Degree
+4.0,3806,Software Engineer,65000.0,29.0,4.0,Bachelor's Degree
+4.0,3808,Junior Software Developer,35000.0,26.0,1.0,Bachelor's Degree
+4.0,3813,Software Developer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,3815,Operations Manager,70000.0,30.0,5.0,Bachelor's Degree
+4.0,3821,Software Engineer,65000.0,29.0,4.0,Bachelor's Degree
+4.0,3823,Junior Software Developer,35000.0,26.0,1.0,Bachelor's Degree
+4.0,3828,Software Developer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,3830,Operations Manager,70000.0,30.0,5.0,Bachelor's Degree
+4.0,3836,Software Engineer,65000.0,29.0,4.0,Bachelor's Degree
+4.0,3838,Junior Software Developer,35000.0,26.0,1.0,Bachelor's Degree
+4.0,3843,Software Developer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,3845,Operations Manager,70000.0,30.0,5.0,Bachelor's Degree
+4.0,3851,Software Engineer,65000.0,29.0,4.0,Bachelor's Degree
+4.0,3853,Junior Software Developer,35000.0,26.0,1.0,Bachelor's Degree
+4.0,3858,Software Developer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,3860,Operations Manager,70000.0,30.0,5.0,Bachelor's Degree
+4.0,3866,Software Engineer,65000.0,29.0,4.0,Bachelor's Degree
+4.0,3868,Junior Software Developer,35000.0,26.0,1.0,Bachelor's Degree
+4.0,3873,Software Developer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,3875,Operations Manager,70000.0,30.0,5.0,Bachelor's Degree
+4.0,3881,Software Engineer,65000.0,29.0,4.0,Bachelor's Degree
+4.0,3883,Junior Software Developer,35000.0,26.0,1.0,Bachelor's Degree
+4.0,3888,Software Developer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,3889,Software Engineer,55000.0,24.0,2.0,Bachelor's Degree
+4.0,3892,Human Resources Coordinator,60000.0,28.0,4.0,Bachelor's Degree
+4.0,3896,Marketing Coordinator,45000.0,27.0,3.0,Bachelor's Degree
+4.0,3901,Software Engineer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,3903,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3908,Software Developer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,3916,Software Engineer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,3918,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3923,Software Developer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,3931,Software Engineer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,3933,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3938,Software Developer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,3946,Software Engineer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,3948,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3953,Software Developer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,3961,Software Engineer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,3963,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3968,Software Developer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,3976,Software Engineer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,3978,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3983,Software Developer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,3991,Software Engineer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,3993,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,3998,Software Developer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,4006,Software Engineer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,4008,Junior Software Developer,35000.0,25.0,1.0,Bachelor's Degree
+4.0,4013,Software Developer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,4014,Software Engineer,80000.0,31.0,5.0,Bachelor's Degree
+4.0,4017,Human Resources Coordinator,45000.0,29.0,2.0,Bachelor's Degree
+4.0,4021,Marketing Coordinator,40000.0,26.0,2.0,Bachelor's Degree
+4.0,4026,Software Engineer,70000.0,29.0,4.0,Bachelor's Degree
+4.0,4028,Junior Software Developer,35000.0,26.0,2.0,Bachelor's Degree
+4.0,4033,Software Developer,80000.0,29.0,5.0,Bachelor's Degree
+4.0,4041,Software Engineer,70000.0,29.0,4.0,Bachelor's Degree
+4.0,4043,Junior Software Developer,35000.0,26.0,2.0,Bachelor's Degree
+4.0,4048,Software Developer,80000.0,29.0,5.0,Bachelor's Degree
+4.0,4056,Software Engineer,70000.0,29.0,4.0,Bachelor's Degree
+4.0,4058,Junior Software Developer,35000.0,26.0,2.0,Bachelor's Degree
+4.0,4063,Software Developer,80000.0,29.0,5.0,Bachelor's Degree
+4.0,4071,Software Engineer,70000.0,29.0,4.0,Bachelor's Degree
+4.0,4073,Junior Software Developer,35000.0,26.0,2.0,Bachelor's Degree
+4.0,4078,Software Developer,80000.0,29.0,5.0,Bachelor's Degree
+4.0,4086,Software Engineer,70000.0,29.0,4.0,Bachelor's Degree
+4.0,4088,Junior Software Developer,35000.0,26.0,2.0,Bachelor's Degree
+4.0,4093,Software Developer,80000.0,29.0,5.0,Bachelor's Degree
+4.0,4101,Software Engineer,70000.0,29.0,4.0,Bachelor's Degree
+4.0,4103,Junior Software Developer,35000.0,26.0,2.0,Bachelor's Degree
+4.0,4108,Software Developer,80000.0,29.0,5.0,Bachelor's Degree
+4.0,4116,Software Engineer,70000.0,29.0,4.0,Bachelor's Degree
+4.0,4118,Junior Software Developer,35000.0,26.0,2.0,Bachelor's Degree
+4.0,4123,Software Developer,80000.0,29.0,5.0,Bachelor's Degree
+4.0,4131,Software Engineer,70000.0,29.0,4.0,Bachelor's Degree
+4.0,4133,Junior Software Developer,35000.0,26.0,2.0,Bachelor's Degree
+4.0,4138,Software Developer,80000.0,29.0,5.0,Bachelor's Degree
+4.0,4142,Human Resources Coordinator,47000.0,27.0,2.0,Bachelor's Degree
+4.0,4146,Marketing Coordinator,41000.0,28.0,2.0,Bachelor's Degree
+4.0,4151,Software Engineer,75000.0,30.0,5.0,Bachelor's Degree
+4.0,4153,Junior Software Developer,36000.0,27.0,2.0,Bachelor's Degree
+4.0,4166,Software Engineer,75000.0,30.0,5.0,Bachelor's Degree
+4.0,4168,Junior Software Developer,36000.0,27.0,2.0,Bachelor's Degree
+4.0,4181,Software Engineer,75000.0,30.0,5.0,Bachelor's Degree
+4.0,4183,Junior Software Developer,36000.0,27.0,2.0,Bachelor's Degree
+4.0,4196,Software Engineer,75000.0,30.0,5.0,Bachelor's Degree
+4.0,4198,Junior Software Developer,36000.0,27.0,2.0,Bachelor's Degree
+4.0,4211,Software Engineer,75000.0,30.0,5.0,Bachelor's Degree
+4.0,4213,Junior Software Developer,36000.0,27.0,2.0,Bachelor's Degree
+4.0,4226,Software Engineer,75000.0,30.0,5.0,Bachelor's Degree
+4.0,4228,Junior Software Developer,36000.0,27.0,2.0,Bachelor's Degree
+4.0,4241,Software Engineer,75000.0,30.0,5.0,Bachelor's Degree
+4.0,4243,Junior Software Developer,36000.0,27.0,2.0,Bachelor's Degree
+4.0,4256,Software Engineer,75000.0,30.0,5.0,Bachelor's Degree
+4.0,4258,Junior Software Developer,36000.0,27.0,2.0,Bachelor's Degree
+4.0,4266,Marketing Coordinator,41000.0,28.0,2.0,Bachelor's Degree
+4.0,4270,Human Resources Coordinator,47000.0,25.0,2.0,Bachelor's Degree
+4.0,4275,Software Engineer,71000.0,29.0,4.0,Bachelor's Degree
+4.0,4277,Junior Software Developer,36000.0,28.0,2.0,Bachelor's Degree
+4.0,4290,Software Engineer,71000.0,29.0,4.0,Bachelor's Degree
+4.0,4292,Junior Software Developer,36000.0,28.0,2.0,Bachelor's Degree
+4.0,4305,Software Engineer,71000.0,29.0,4.0,Bachelor's Degree
+4.0,4307,Junior Software Developer,36000.0,28.0,2.0,Bachelor's Degree
+4.0,4320,Software Engineer,71000.0,29.0,4.0,Bachelor's Degree
+4.0,4322,Junior Software Developer,36000.0,28.0,2.0,Bachelor's Degree
+4.0,4335,Software Engineer,71000.0,29.0,4.0,Bachelor's Degree
+4.0,4337,Junior Software Developer,36000.0,28.0,2.0,Bachelor's Degree
+4.0,4350,Software Engineer,71000.0,29.0,4.0,Bachelor's Degree
+4.0,4352,Junior Software Developer,36000.0,28.0,2.0,Bachelor's Degree
+4.0,4365,Software Engineer,71000.0,29.0,4.0,Bachelor's Degree
+4.0,4367,Junior Software Developer,36000.0,28.0,2.0,Bachelor's Degree
+4.0,4380,Software Engineer,71000.0,29.0,4.0,Bachelor's Degree
+4.0,4382,Junior Software Developer,36000.0,28.0,2.0,Bachelor's Degree
+4.0,4389,Software Developer,62000.0,27.0,3.0,Bachelor's Degree
+4.0,4392,Human Resources Coordinator,45000.0,29.0,2.0,Bachelor's Degree
+4.0,4396,Software Engineer,74000.0,31.0,5.0,Bachelor's Degree
+4.0,4398,Junior Software Developer,37000.0,28.0,2.0,Bachelor's Degree
+4.0,4403,Software Developer,61000.0,27.0,3.0,Bachelor's Degree
+4.0,4406,Software Engineer,52000.0,26.0,1.0,Bachelor's Degree
+4.0,4407,Marketing Coordinator,58000.0,30.0,4.0,Bachelor's Degree
+4.0,4413,Junior Software Developer,37000.0,28.0,2.0,Bachelor's Degree
+4.0,4418,Software Developer,61000.0,27.0,3.0,Bachelor's Degree
+4.0,4421,Software Engineer,52000.0,26.0,1.0,Bachelor's Degree
+4.0,4422,Marketing Coordinator,58000.0,30.0,4.0,Bachelor's Degree
+4.0,4428,Junior Software Developer,37000.0,28.0,2.0,Bachelor's Degree
+4.0,4433,Software Developer,61000.0,27.0,3.0,Bachelor's Degree
+4.0,4436,Software Engineer,52000.0,26.0,1.0,Bachelor's Degree
+4.0,4437,Marketing Coordinator,58000.0,30.0,4.0,Bachelor's Degree
+4.0,4443,Junior Software Developer,37000.0,28.0,2.0,Bachelor's Degree
+4.0,4448,Software Developer,61000.0,27.0,3.0,Bachelor's Degree
+4.0,4451,Software Engineer,52000.0,26.0,1.0,Bachelor's Degree
+4.0,4452,Marketing Coordinator,58000.0,30.0,4.0,Bachelor's Degree
+4.0,4458,Junior Software Developer,37000.0,28.0,2.0,Bachelor's Degree
+4.0,4463,Software Developer,61000.0,27.0,3.0,Bachelor's Degree
+4.0,4466,Software Engineer,52000.0,26.0,1.0,Bachelor's Degree
+4.0,4467,Marketing Coordinator,58000.0,30.0,4.0,Bachelor's Degree
+4.0,4473,Junior Software Developer,37000.0,28.0,2.0,Bachelor's Degree
+4.0,4478,Software Developer,61000.0,27.0,3.0,Bachelor's Degree
+4.0,4481,Software Engineer,52000.0,26.0,1.0,Bachelor's Degree
+4.0,4482,Marketing Coordinator,58000.0,30.0,4.0,Bachelor's Degree
+4.0,4488,Junior Software Developer,37000.0,28.0,2.0,Bachelor's Degree
+4.0,4493,Software Developer,61000.0,27.0,3.0,Bachelor's Degree
+4.0,4496,Software Engineer,52000.0,26.0,1.0,Bachelor's Degree
+4.0,4497,Marketing Coordinator,58000.0,30.0,4.0,Bachelor's Degree
+4.0,4503,Junior Software Developer,37000.0,28.0,2.0,Bachelor's Degree
+4.0,4508,Software Developer,61000.0,27.0,3.0,Bachelor's Degree
+4.0,4511,Software Engineer,52000.0,26.0,1.0,Bachelor's Degree
+4.0,4512,Marketing Coordinator,58000.0,30.0,4.0,Bachelor's Degree
+4.0,4516,Junior Web Developer,45000.0,28.0,2.0,Bachelor's Degree
+4.0,4520,Junior HR Generalist,60000.0,32.0,5.0,Bachelor's Degree
+4.0,4523,Junior HR Generalist,32000.0,23.0,1.0,Bachelor's Degree
+4.0,4524,Web Developer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,4525,Junior HR Coordinator,35000.0,26.0,1.0,Bachelor's Degree
+4.0,4529,Junior HR Coordinator,50000.0,31.0,4.0,Bachelor's Degree
+4.0,4530,Web Developer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,4535,Junior HR Generalist,42000.0,26.0,2.0,Bachelor's Degree
+4.0,4539,Junior HR Generalist,42000.0,27.0,2.0,Bachelor's Degree
+4.0,4542,Junior Web Developer,40000.0,24.0,1.0,Bachelor's Degree
+4.0,4545,Junior HR Generalist,50000.0,28.0,3.0,Bachelor's Degree
+4.0,4547,Web Developer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,4550,Web Developer,70000.0,30.0,5.0,Bachelor's Degree
+4.0,4553,Web Developer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4555,Junior HR Generalist,32000.0,26.0,1.0,Bachelor's Degree
+4.0,4561,Junior HR Coordinator,45000.0,28.0,3.0,Bachelor's Degree
+4.0,4563,Web Developer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,4564,Junior HR Coordinator,38000.0,26.0,2.0,Bachelor's Degree
+4.0,4568,Junior HR Generalist,60000.0,31.0,5.0,Bachelor's Degree
+4.0,4571,Web Developer,35000.0,26.0,1.0,Bachelor's Degree
+4.0,4575,Junior HR Coordinator,32000.0,23.0,1.0,Bachelor's Degree
+4.0,4576,Web Developer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,4577,Junior HR Generalist,42000.0,26.0,2.0,Bachelor's Degree
+4.0,4581,Junior HR Coordinator,50000.0,31.0,4.0,Bachelor's Degree
+4.0,4582,Web Developer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,4587,Junior HR Generalist,42000.0,26.0,2.0,Bachelor's Degree
+4.0,4591,Junior HR Generalist,42000.0,27.0,2.0,Bachelor's Degree
+4.0,4594,Junior Web Developer,40000.0,24.0,1.0,Bachelor's Degree
+4.0,4597,Junior HR Generalist,50000.0,28.0,3.0,Bachelor's Degree
+4.0,4599,Web Developer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,4602,Web Developer,70000.0,30.0,5.0,Bachelor's Degree
+4.0,4605,Web Developer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4607,Junior HR Generalist,32000.0,26.0,1.0,Bachelor's Degree
+4.0,4613,Junior HR Coordinator,45000.0,28.0,3.0,Bachelor's Degree
+4.0,4615,Web Developer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,4616,Junior HR Coordinator,38000.0,26.0,2.0,Bachelor's Degree
+4.0,4620,Junior HR Generalist,60000.0,31.0,5.0,Bachelor's Degree
+4.0,4623,Web Developer,35000.0,26.0,1.0,Bachelor's Degree
+4.0,4627,Junior HR Coordinator,32000.0,23.0,1.0,Bachelor's Degree
+4.0,4628,Web Developer,65000.0,30.0,4.0,Bachelor's Degree
+4.0,4629,Junior HR Generalist,42000.0,26.0,2.0,Bachelor's Degree
+4.0,4633,Junior HR Coordinator,500.0,31.0,4.0,Bachelor's Degree
+4.0,4634,Junior Software Engineer,45000.0,27.0,1.0,Bachelor's Degree
+4.0,4636,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4637,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4641,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4642,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4644,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4646,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4647,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4651,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4652,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4654,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4656,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4657,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4661,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4662,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4664,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4666,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4667,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4671,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4672,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4674,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4676,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4677,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4681,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4682,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4684,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4686,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4687,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4691,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4692,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4694,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4696,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4697,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4701,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4702,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4704,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4706,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4707,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4711,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4712,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4714,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4716,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4717,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4721,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4722,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4724,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4726,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4727,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4731,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4732,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4734,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4736,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4737,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4741,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4742,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4744,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4746,Marketing Coordinator,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4747,Junior Marketing Manager,70000.0,31.0,5.0,Bachelor's Degree
+4.0,4751,Junior Data Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,4752,Junior Marketing Manager,55000.0,29.0,3.0,Bachelor's Degree
+4.0,4754,Junior Software Engineer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,4755,Junior Software Engineer,48000.0,28.0,2.0,Bachelor's Degree
+4.0,4757,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4762,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4763,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4765,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4767,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4772,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4773,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4775,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4777,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4782,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4783,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4785,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4787,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4792,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4793,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4795,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4797,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4802,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4803,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4805,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4807,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4812,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4813,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4815,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4817,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4822,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4823,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4825,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4827,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4832,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4833,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4835,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4837,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4842,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4843,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4845,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4847,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4852,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4853,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4855,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4857,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4862,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4863,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4865,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4867,Marketing Coordinator,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4872,Junior Data Analyst,52000.0,28.0,3.0,Bachelor's Degree
+4.0,4873,Junior Marketing Manager,57000.0,30.0,4.0,Bachelor's Degree
+4.0,4875,Junior Software Engineer,48000.0,27.0,2.0,Bachelor's Degree
+4.0,4876,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,4886,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,4889,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,4899,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,4902,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,4912,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,4915,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,4925,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,4928,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,4938,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,4941,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,4951,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,4954,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,4964,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,4967,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,4977,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,4980,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,4990,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,4993,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,5003,Digital Marketing Manager,80000.0,28.0,4.0,Bachelor's Degree
+4.0,5009,Marketing Manager,55000.0,25.0,2.0,Bachelor's Degree
+4.0,5010,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,5020,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,5023,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,5033,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,5036,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,5046,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,5049,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,5059,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,5062,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,5072,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,5075,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,5085,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,5088,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,5098,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,5101,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,5111,Marketing Manager,65000.0,25.0,3.0,Bachelor's Degree
+4.0,5114,Senior Product Marketing Manager,85000.0,26.0,5.0,Bachelor's Degree
+4.0,5124,Software Engineer,60000.0,23.0,1.0,Bachelor's Degree
+4.0,5126,Financial Analyst,80000.0,28.0,4.0,Bachelor's Degree
+4.0,5129,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5131,Digital Marketing Specialist,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5135,Social Media Manager,55000.0,26.0,3.0,Bachelor's Degree
+4.0,5140,Junior Software Engineer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5141,Marketing Coordinator,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5142,Product Designer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,5144,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5146,Junior Software Engineer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5147,Marketing Coordinator,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5148,Product Designer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,5150,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5152,Software Engineer,60000.0,23.0,1.0,Bachelor's Degree
+4.0,5154,Financial Analyst,80000.0,28.0,4.0,Bachelor's Degree
+4.0,5157,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5159,Digital Marketing Specialist,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5163,Social Media Manager,55000.0,26.0,3.0,Bachelor's Degree
+4.0,5168,Junior Software Engineer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5169,Marketing Coordinator,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5170,Product Designer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,5172,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5174,Junior Software Engineer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5175,Marketing Coordinator,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5176,Product Designer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,5178,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5180,Software Engineer,60000.0,23.0,1.0,Bachelor's Degree
+4.0,5182,Financial Analyst,80000.0,28.0,4.0,Bachelor's Degree
+4.0,5185,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5187,Digital Marketing Specialist,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5191,Social Media Manager,55000.0,26.0,3.0,Bachelor's Degree
+4.0,5196,Junior Software Engineer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5197,Marketing Coordinator,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5198,Product Designer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,5200,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5202,Junior Software Engineer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5203,Marketing Coordinator,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5204,Product Designer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,5206,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5208,Software Engineer,60000.0,23.0,1.0,Bachelor's Degree
+4.0,5210,Financial Analyst,80000.0,28.0,4.0,Bachelor's Degree
+4.0,5213,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5215,Digital Marketing Specialist,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5219,Social Media Manager,55000.0,26.0,3.0,Bachelor's Degree
+4.0,5224,Junior Software Engineer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5225,Marketing Coordinator,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5226,Product Designer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,5228,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5230,Junior Software Engineer,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5231,Marketing Coordinator,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5232,Product Designer,60000.0,27.0,3.0,Bachelor's Degree
+4.0,5234,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5236,Software Engineer,60000.0,23.0,1.0,Bachelor's Degree
+4.0,5238,Financial Analyst,80000.0,28.0,4.0,Bachelor's Degree
+4.0,5241,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5243,Digital Marketing Specialist,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5248,Software Engineer,85000.0,28.0,3.0,Bachelor's Degree
+4.0,5250,Financial Analyst,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5253,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5255,Digital Marketing Specialist,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5259,Social Media Manager,55000.0,27.0,3.0,Bachelor's Degree
+4.0,5264,Junior Software Engineer,55000.0,26.0,1.0,Bachelor's Degree
+4.0,5265,Marketing Coordinator,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5266,Product Designer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5268,Marketing Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5270,Junior Software Engineer,55000.0,26.0,1.0,Bachelor's Degree
+4.0,5271,Marketing Coordinator,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5272,Product Designer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5274,Marketing Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5276,Software Engineer,85000.0,28.0,3.0,Bachelor's Degree
+4.0,5278,Financial Analyst,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5281,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5283,Digital Marketing Specialist,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5287,Social Media Manager,55000.0,27.0,3.0,Bachelor's Degree
+4.0,5292,Junior Software Engineer,55000.0,26.0,1.0,Bachelor's Degree
+4.0,5293,Marketing Coordinator,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5294,Product Designer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5296,Marketing Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5298,Junior Software Engineer,55000.0,26.0,1.0,Bachelor's Degree
+4.0,5299,Marketing Coordinator,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5300,Product Designer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5302,Marketing Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5304,Software Engineer,85000.0,28.0,3.0,Bachelor's Degree
+4.0,5306,Financial Analyst,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5309,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5311,Digital Marketing Specialist,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5315,Social Media Manager,55000.0,27.0,3.0,Bachelor's Degree
+4.0,5320,Junior Software Engineer,55000.0,26.0,1.0,Bachelor's Degree
+4.0,5321,Marketing Coordinator,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5322,Product Designer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5324,Marketing Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5326,Junior Software Engineer,55000.0,26.0,1.0,Bachelor's Degree
+4.0,5327,Marketing Coordinator,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5328,Product Designer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5330,Marketing Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5332,Software Engineer,85000.0,28.0,3.0,Bachelor's Degree
+4.0,5334,Financial Analyst,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5337,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5339,Digital Marketing Specialist,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5343,Social Media Manager,55000.0,27.0,3.0,Bachelor's Degree
+4.0,5348,Junior Software Engineer,55000.0,26.0,1.0,Bachelor's Degree
+4.0,5349,Marketing Coordinator,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5350,Product Designer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5352,Marketing Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5354,Junior Software Engineer,55000.0,26.0,1.0,Bachelor's Degree
+4.0,5355,Marketing Coordinator,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5356,Product Designer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5358,Marketing Analyst,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5360,Software Engineer,85000.0,28.0,3.0,Bachelor's Degree
+4.0,5362,Financial Analyst,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5365,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5367,Digital Marketing Specialist,65000.0,30.0,4.0,Bachelor's Degree
+4.0,5371,Social Media Manager,55000.0,27.0,3.0,Bachelor's Degree
+4.0,5373,Software Engineer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,5375,Financial Analyst,55000.0,24.0,1.0,Bachelor's Degree
+4.0,5378,Graphic Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5380,Digital Marketing Specialist,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5384,Social Media Manager,55000.0,26.0,3.0,Bachelor's Degree
+4.0,5389,Junior Software Engineer,55000.0,27.0,1.0,Bachelor's Degree
+4.0,5390,Marketing Coordinator,65000.0,31.0,4.0,Bachelor's Degree
+4.0,5391,Product Designer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5393,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5395,Junior Software Engineer,55000.0,27.0,1.0,Bachelor's Degree
+4.0,5396,Marketing Coordinator,65000.0,31.0,4.0,Bachelor's Degree
+4.0,5397,Product Designer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5399,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5401,Software Engineer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,5403,Financial Analyst,55000.0,24.0,1.0,Bachelor's Degree
+4.0,5406,Graphic Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5408,Digital Marketing Specialist,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5412,Social Media Manager,55000.0,26.0,3.0,Bachelor's Degree
+4.0,5417,Junior Software Engineer,55000.0,27.0,1.0,Bachelor's Degree
+4.0,5418,Marketing Coordinator,65000.0,31.0,4.0,Bachelor's Degree
+4.0,5419,Product Designer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5421,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5423,Junior Software Engineer,55000.0,27.0,1.0,Bachelor's Degree
+4.0,5424,Marketing Coordinator,65000.0,31.0,4.0,Bachelor's Degree
+4.0,5425,Product Designer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5427,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5429,Software Engineer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,5431,Financial Analyst,55000.0,24.0,1.0,Bachelor's Degree
+4.0,5434,Graphic Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5436,Digital Marketing Specialist,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5440,Social Media Manager,55000.0,26.0,3.0,Bachelor's Degree
+4.0,5445,Junior Software Engineer,55000.0,27.0,1.0,Bachelor's Degree
+4.0,5446,Marketing Coordinator,65000.0,31.0,4.0,Bachelor's Degree
+4.0,5447,Product Designer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5449,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5451,Junior Software Engineer,55000.0,27.0,1.0,Bachelor's Degree
+4.0,5452,Marketing Coordinator,65000.0,31.0,4.0,Bachelor's Degree
+4.0,5453,Product Designer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5455,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5457,Software Engineer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,5459,Financial Analyst,55000.0,24.0,1.0,Bachelor's Degree
+4.0,5462,Graphic Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5464,Digital Marketing Specialist,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5468,Social Media Manager,55000.0,26.0,3.0,Bachelor's Degree
+4.0,5473,Junior Software Engineer,55000.0,27.0,1.0,Bachelor's Degree
+4.0,5474,Marketing Coordinator,65000.0,31.0,4.0,Bachelor's Degree
+4.0,5475,Product Designer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5477,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5479,Junior Software Engineer,55000.0,27.0,1.0,Bachelor's Degree
+4.0,5480,Marketing Coordinator,65000.0,31.0,4.0,Bachelor's Degree
+4.0,5481,Product Designer,60000.0,29.0,3.0,Bachelor's Degree
+4.0,5483,Marketing Analyst,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5485,Software Engineer,85000.0,27.0,3.0,Bachelor's Degree
+4.0,5487,Financial Analyst,55000.0,24.0,1.0,Bachelor's Degree
+4.0,5490,Graphic Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5492,Digital Marketing Specialist,65000.0,29.0,4.0,Bachelor's Degree
+4.0,5498,Graphic Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5502,Marketing Coordinator,50000.0,27.0,2.0,Bachelor's Degree
+4.0,5505,Software Engineer,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5506,Sales Manager,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5508,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5513,Product Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5515,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5517,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5519,Product Manager,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5520,Marketing Coordinator,85000.0,30.0,5.0,Bachelor's Degree
+4.0,5522,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5527,Product Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5529,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5531,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5533,Product Manager,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5534,Marketing Coordinator,85000.0,30.0,5.0,Bachelor's Degree
+4.0,5536,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5541,Product Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5543,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5545,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5547,Product Manager,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5548,Marketing Coordinator,85000.0,30.0,5.0,Bachelor's Degree
+4.0,5550,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5555,Product Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5557,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5559,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5561,Product Manager,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5562,Marketing Coordinator,85000.0,30.0,5.0,Bachelor's Degree
+4.0,5564,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5569,Product Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5571,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5573,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5575,Product Manager,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5576,Marketing Coordinator,85000.0,30.0,5.0,Bachelor's Degree
+4.0,5578,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5583,Product Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5585,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5587,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5589,Product Manager,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5590,Marketing Coordinator,85000.0,30.0,5.0,Bachelor's Degree
+4.0,5592,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5597,Product Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5599,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5601,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5603,Product Manager,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5604,Marketing Coordinator,85000.0,30.0,5.0,Bachelor's Degree
+4.0,5606,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5611,Product Designer,50000.0,26.0,2.0,Bachelor's Degree
+4.0,5613,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5615,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5617,Product Manager,55000.0,25.0,1.0,Bachelor's Degree
+4.0,5618,Marketing Coordinator,85000.0,30.0,5.0,Bachelor's Degree
+4.0,5620,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5624,Marketing Coordinator,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5626,Graphic Designer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,5627,Product Manager,80000.0,29.0,5.0,Bachelor's Degree
+4.0,5629,Software Engineer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,5635,Software Engineer,75000.0,27.0,3.0,Bachelor's Degree
+4.0,5637,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5641,Product Designer,50000.0,26.0,1.0,Bachelor's Degree
+4.0,5643,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,5648,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5650,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5652,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5654,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5655,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5657,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5662,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5664,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5666,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5668,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5669,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5671,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5676,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5678,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5680,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5682,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5683,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5685,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5690,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5692,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5694,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5696,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5697,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5699,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5704,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5706,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5708,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5710,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5711,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5713,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5718,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5720,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5722,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5724,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5725,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5727,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5732,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5734,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5736,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5738,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5739,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5741,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5746,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5748,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5750,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5751,Software Engineer,75000.0,29.0,3.0,Bachelor's Degree
+4.0,5753,Product Manager,65000.0,27.0,2.0,Bachelor's Degree
+4.0,5756,Marketing Coordinator,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5758,Graphic Designer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,5759,Product Manager,80000.0,29.0,5.0,Bachelor's Degree
+4.0,5761,Software Engineer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,5767,Software Engineer,75000.0,27.0,3.0,Bachelor's Degree
+4.0,5769,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5773,Product Designer,50000.0,26.0,1.0,Bachelor's Degree
+4.0,5775,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,5780,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5782,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5784,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5786,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5787,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5789,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5794,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5796,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5798,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5800,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5801,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5803,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5808,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5810,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5812,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5814,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5815,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5817,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5822,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5824,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5826,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5828,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5829,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5831,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5836,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5838,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5840,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5842,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5843,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5845,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5850,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5852,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5854,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5856,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5857,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5859,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5864,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5866,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5868,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5870,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5871,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5873,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5879,Marketing Coordinator,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5881,Product Manager,65000.0,27.0,2.0,Bachelor's Degree
+4.0,5884,Marketing Analyst,65000.0,29.0,3.0,Bachelor's Degree
+4.0,5886,Graphic Designer,45000.0,26.0,1.0,Bachelor's Degree
+4.0,5887,Product Manager,80000.0,29.0,5.0,Bachelor's Degree
+4.0,5889,Software Engineer,65000.0,27.0,2.0,Bachelor's Degree
+4.0,5895,Software Engineer,75000.0,27.0,3.0,Bachelor's Degree
+4.0,5897,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5901,Product Designer,50000.0,26.0,1.0,Bachelor's Degree
+4.0,5903,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,5908,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5910,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5912,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5914,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5915,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5917,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5922,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5924,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5926,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5928,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5929,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5931,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5936,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5938,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5940,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5942,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5943,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5945,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5950,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5952,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5954,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5956,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5957,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5959,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5964,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5966,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5968,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5970,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5971,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5973,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5978,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5980,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5982,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5984,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5985,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,5987,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,5992,Product Designer,55000.0,26.0,2.0,Bachelor's Degree
+4.0,5994,Marketing Analyst,70000.0,29.0,4.0,Bachelor's Degree
+4.0,5996,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,5998,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,5999,Marketing Coordinator,90000.0,30.0,5.0,Bachelor's Degree
+4.0,6001,Marketing Analyst,60000.0,28.0,3.0,Bachelor's Degree
+4.0,6006,Marketing Coordinator,65000.0,29.0,4.0,Bachelor's Degree
+4.0,6008,Product Manager,70000.0,28.0,3.0,Bachelor's Degree
+4.0,6011,Marketing Analyst,75000.0,30.0,4.0,Bachelor's Degree
+4.0,6013,Graphic Designer,50000.0,27.0,2.0,Bachelor's Degree
+4.0,6014,Product Manager,85000.0,30.0,5.0,Bachelor's Degree
+4.0,6016,Software Engineer,70000.0,28.0,3.0,Bachelor's Degree
+4.0,6022,Software Engineer,70000.0,28.0,3.0,Bachelor's Degree
+4.0,6024,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6028,Product Designer,45000.0,27.0,1.0,Bachelor's Degree
+4.0,6030,Marketing Analyst,70000.0,28.0,3.0,Bachelor's Degree
+4.0,6035,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6037,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6039,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6041,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6042,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6044,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6049,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6051,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6053,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6055,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6056,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6058,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6063,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6065,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6067,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6069,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6070,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6072,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6077,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6079,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6081,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6083,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6084,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6086,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6091,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6093,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6095,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6097,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6098,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6100,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6105,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6107,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6109,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6111,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6112,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6114,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6119,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6121,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6123,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6125,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6126,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6128,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6136,Graphic Designer,60000.0,28.0,3.0,Bachelor's Degree
+4.0,6138,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6140,Software Engineer,70000.0,27.0,2.0,Bachelor's Degree
+4.0,6145,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6147,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6149,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6151,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6152,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6154,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6159,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6161,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6163,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6165,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6166,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6168,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6173,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6175,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6177,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6179,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6180,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6182,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6187,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6189,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6191,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6193,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6194,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6196,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6201,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6203,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6205,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6207,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6208,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6210,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6215,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6217,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6219,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6221,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6222,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6224,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6229,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6231,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6233,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6235,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6236,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6238,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6243,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6245,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6247,Software Engineer,80000.0,27.0,3.0,Bachelor's Degree
+4.0,6249,Product Manager,60000.0,25.0,1.0,Bachelor's Degree
+4.0,6250,Marketing Coordinator,95000.0,30.0,5.0,Bachelor's Degree
+4.0,6252,Marketing Analyst,65000.0,28.0,3.0,Bachelor's Degree
+4.0,6257,Product Designer,55000.0,27.0,2.0,Bachelor's Degree
+4.0,6259,Marketing Analyst,75000.0,29.0,4.0,Bachelor's Degree
+4.0,6260,Sales Associate,45000.0,29.0,2.0,Bachelor's Degree
+4.0,6265,Digital Marketing Manager,60000.0,26.0,4.0,Bachelor's Degree
+4.0,6269,Junior Sales Representative,35000.0,35.0,2.0,Bachelor's Degree
+4.0,6271,Sales Associate,35000.0,27.0,1.0,Bachelor's Degree
+4.0,6281,Junior Sales Representative,40000.0,32.0,3.0,Bachelor's Degree
+4.0,6285,Financial Manager,70000.0,34.0,5.0,Bachelor's Degree
+4.0,6292,Junior Sales Representative,55000.0,33.0,4.0,Bachelor's Degree
+4.0,6297,Sales Executive,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6299,Digital Marketing Manager,60000.0,26.0,4.0,Bachelor's Degree
+4.0,6303,Junior Sales Representative,35000.0,36.0,2.0,Bachelor's Degree
+4.0,6314,Junior Sales Representative,30000.0,28.0,1.0,Bachelor's Degree
+4.0,6319,Sales Executive,35000.0,24.0,1.0,Bachelor's Degree
+4.0,6323,Junior Sales Representative,40000.0,31.0,3.0,Bachelor's Degree
+4.0,6331,Sales Associate,50000.0,31.0,3.0,Bachelor's Degree
+4.0,6340,Sales Executive,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6346,Sales Representative,40000.0,28.0,2.0,Bachelor's Degree
+4.0,6357,Sales Representative,70000.0,36.0,5.0,Bachelor's Degree
+4.0,6365,Sales Executive,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6371,Junior Sales Representative,45000.0,36.0,3.0,Bachelor's Degree
+4.0,6374,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6379,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6388,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6393,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6402,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6407,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6416,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6421,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6430,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6435,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6444,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6449,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6457,Sales Representative,40000.0,26.0,2.0,Bachelor's Degree
+4.0,6460,Sales Manager,70000.0,29.0,5.0,Bachelor's Degree
+4.0,6470,Sales Manager,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6479,Sales Director,70000.0,29.0,5.0,Bachelor's Degree
+4.0,6484,Sales Executive,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6490,Junior Sales Representative,45000.0,36.0,3.0,Bachelor's Degree
+4.0,6493,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6498,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6507,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6512,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6521,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6526,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6535,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6540,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6549,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6554,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6563,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6568,Sales Representative,35000.0,23.0,1.0,Bachelor's Degree
+4.0,6577,Financial Manager,55000.0,29.0,4.0,Bachelor's Degree
+4.0,6581,Sales Representative,45000.0,27.0,3.0,Bachelor's Degree
+4.0,6594,Sales Manager,35000.0,24.0,1.0,Bachelor's Degree
+4.0,6603,Sales Director,70000.0,30.0,5.0,Bachelor's Degree
+4.0,6608,Sales Executive,35000.0,24.0,1.0,Bachelor's Degree
+4.0,6617,Financial Manager,55000.0,30.0,4.0,Bachelor's Degree
+4.0,6622,Sales Representative,35000.0,24.0,1.0,Bachelor's Degree
+4.0,6631,Sales Manager,70000.0,30.0,5.0,Bachelor's Degree
+4.0,6636,Sales Executive,35000.0,24.0,1.0,Bachelor's Degree
+4.0,6645,Financial Manager,55000.0,30.0,4.0,Bachelor's Degree
+4.0,6650,Sales Representative,35000.0,24.0,1.0,Bachelor's Degree
+4.0,6659,Sales Manager,70000.0,30.0,5.0,Bachelor's Degree
+4.0,6664,Sales Executive,35000.0,24.0,1.0,Bachelor's Degree
+4.0,6673,Financial Manager,55000.0,30.0,4.0,Bachelor's Degree
+4.0,6678,Sales Representative,35000.0,24.0,1.0,Bachelor's Degree
+4.0,6687,Sales Manager,70000.0,30.0,5.0,Bachelor's Degree
+4.0,6692,Sales Executive,35000.0,24.0,1.0,Bachelor's Degree
+4.0,6701,Financial Manager,55000.0,30.0,4.0,Bachelor's Degree
+5.0,379,Data Scientist,180000.0,30.0,5.0,PhD
+5.0,387,Data Scientist,115000.0,27.0,2.0,PhD
+5.0,398,Data Scientist,180000.0,30.0,5.0,PhD
+5.0,406,Data Scientist,115000.0,27.0,2.0,PhD
+5.0,417,Data Scientist,180000.0,30.0,5.0,PhD
+5.0,425,Data Scientist,115000.0,27.0,2.0,PhD
+5.0,436,Data Scientist,180000.0,30.0,5.0,PhD
+5.0,444,Data Scientist,115000.0,27.0,2.0,PhD
+5.0,452,Data Scientist,115000.0,27.0,2.0,PhD
+5.0,463,Data Scientist,180000.0,30.0,5.0,PhD
+5.0,471,Data Scientist,115000.0,27.0,2.0,PhD
+5.0,479,Data Scientist,115000.0,27.0,2.0,PhD
+5.0,487,Data Scientist,115000.0,27.0,2.0,PhD
+5.0,495,Data Scientist,115000.0,27.0,2.0,PhD
+5.0,503,Data Scientist,115000.0,27.0,2.0,PhD
+5.0,2414,Software Engineer Manager,119836.0,23.0,1.0,PhD
+5.0,2450,Full Stack Engineer,98568.0,29.0,5.0,PhD
+5.0,2494,Software Engineer Manager,119836.0,23.0,1.0,PhD
+5.0,2530,Full Stack Engineer,98568.0,29.0,5.0,PhD
+5.0,2562,Software Engineer Manager,106132.0,24.0,1.0,PhD
+5.0,2654,Software Engineer Manager,579.0,23.0,1.0,PhD
+5.0,2808,Software Engineer Manager,106686.0,24.0,1.0,PhD
+5.0,2927,Software Engineer Manager,106686.0,24.0,1.0,PhD
+5.0,3046,Software Engineer Manager,106686.0,24.0,1.0,PhD
+5.0,5251,Data Scientist,100000.0,29.0,5.0,PhD
+5.0,5279,Data Scientist,100000.0,29.0,5.0,PhD
+5.0,5307,Data Scientist,100000.0,29.0,5.0,PhD
+5.0,5335,Data Scientist,100000.0,29.0,5.0,PhD
+5.0,5363,Data Scientist,100000.0,29.0,5.0,PhD
+5.0,5376,Data Scientist,100000.0,28.0,5.0,PhD
+5.0,5404,Data Scientist,100000.0,28.0,5.0,PhD
+5.0,5432,Data Scientist,100000.0,28.0,5.0,PhD
+5.0,5460,Data Scientist,100000.0,28.0,5.0,PhD
+5.0,5488,Data Scientist,100000.0,28.0,5.0,PhD
+5.0,6313,Senior Product Marketing Manager,70000.0,33.0,5.0,PhD
+5.0,6327,Financial Manager,70000.0,33.0,5.0,PhD
+5.0,6335,Digital Marketing Manager,30000.0,24.0,1.0,PhD
+5.0,6344,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6369,Sales Representative,55000.0,27.0,4.0,PhD
+5.0,6383,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6397,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6411,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6425,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6439,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6453,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6474,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6488,Sales Representative,55000.0,27.0,4.0,PhD
+5.0,6502,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6516,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6530,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6544,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6558,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6572,Marketing Manager,55000.0,27.0,4.0,PhD
+5.0,6598,Marketing Manager,55000.0,28.0,4.0,PhD
+5.0,6612,Sales Representative,55000.0,28.0,4.0,PhD
+5.0,6626,Marketing Manager,55000.0,28.0,4.0,PhD
+5.0,6640,Sales Representative,55000.0,28.0,4.0,PhD
+5.0,6654,Marketing Manager,55000.0,28.0,4.0,PhD
+5.0,6668,Sales Representative,55000.0,28.0,4.0,PhD
+5.0,6682,Marketing Manager,55000.0,28.0,4.0,PhD
+5.0,6696,Sales Representative,55000.0,28.0,4.0,PhD
